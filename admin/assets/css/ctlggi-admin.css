@@ -1,0 +1,46 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ 
+/* Forms Messages Style */
+.cw-form-msgs .form-messages {
+    padding:10px;
+	max-width:100%;
+	border: 1px solid #e5e5e5;
+	background-color:#fff;
+    background: rgb(255, 255, 255); /*  fallback color */
+    background: rgba(255, 255, 255, 0.7);
+    color:#e97272;
+	border-radius: 2px;
+    font-size:13px;
+    font-weight:normal;
+    margin:8px 0 8px 0;
+	text-align:left;
+	display:block;
+}
+
+.cw-form-msgs .alert-danger {
+    background-image: linear-gradient(to bottom, #f2dede 0px, #e7c3c3 100%);
+    background-repeat: repeat-x;
+    border-color: #dca7a7;
+    background-color: #f2dede;
+    color: #a94442;
+}
+
+.cw-form-msgs .alert-success {
+    background-image: linear-gradient(to bottom, #dff0d8 0px, #c8e5bc 100%);
+    background-repeat: repeat-x;
+    border-color: #b2dba1;
+    background-color: #dff0d8;
+    color: #3c763d;
+}
+
+.cw-form-msgs .alert-info {
+    background-image: linear-gradient(to bottom, #d9edf7 0px, #b9def0 100%);
+    background-repeat: repeat-x;
+    border-color: #9acfea;
+    background-color: #d9edf7;
+    color: #31708f;
+}

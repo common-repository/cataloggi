@@ -1,0 +1,88 @@
+
+.cw-form form fieldset {
+	background:#D3EFDA;
+   /* background: rgb(222, 242, 250);  fallback color 
+    background: rgba(222, 242, 250, 0.9);*/
+}
+.cw-form .cw-header {
+	background:#E3F4E8;
+   /* background: rgb(239, 248, 252);  fallback color 
+    background: rgba(239, 248, 252, 0.9);*/
+	border-bottom: 1px solid #e5e5e5;
+}
+.cw-form .cw-footer {
+	background:#E3F4E8;
+   /* background: rgb(239, 248, 252);  fallback color 
+    background: rgba(239, 248, 252, 0.9);*/
+	border-top: 1px solid #e5e5e5;
+}
+.cw-form input[type=text], input[type=email], select, textarea {
+    border: 1px solid #ddd;
+	background:#F8F8F8;
+    /* background: rgb(248, 248, 248); /* fallback color 
+    background: rgba(248, 248, 248, 0.9);*/
+}
+.cw-form input[type=text]:focus, input[type=email]:focus, select:focus, textarea:focus {
+    border: 1px solid #cdcdcd;
+}
+.cw-form .submitbutton{
+    background:#3DA354;
+    color:#f5f5f5;
+}
+.cw-form .submitbutton:hover, .cw-form .submitbutton:focus{
+    background:#318243;
+}
+.cw-form .refreshbutton{
+    background:#6DC982;
+    color:#f5f5f5;
+}
+.cw-form .refreshbutton:hover{
+    background:#4BBC65;
+}
+.cw-form .filebtn {
+    background:#6DC982;
+    color:#f5f5f5;
+}
+.cw-form .filebtn:hover{
+    background:#4BBC65;
+}
+/* style icon */
+.inner-addon .glyphicon {
+  color:#B0E1BB;
+}
+
+/* add-on style */
+
+.cw-form .textlabel-paymentform {
+	color:#262626;
+	font-size:16px;
+	font-weight: bold;
+	line-height:1.2em;
+    padding: 0px;
+	margin: 6px 2px 2px 18px;
+	float:left;
+	width:100%;
+	text-align:left;
+}
+
+.cw-form .footer-extra-data {
+	background:#EDF8F0;
+}
+
+/* Responsive Table */
+
+.cw-table-responsive table th {
+	background:#D3EFDA;
+}
+
+.cw-table-responsive table tbody tr {
+	background:#EDF8F0;
+}
+
+.cw-table-responsive table thead tr{
+	background:#D3EFDA;
+}
+
+.cw-table-responsive table tbody tr:nth-child(2n+1) td {
+	background:#EDF8F0;
+}

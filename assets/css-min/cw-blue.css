@@ -1,0 +1,112 @@
+
+
+.cw-form form fieldset {
+	background:#EFF8FC;
+    background: rgb(222, 242, 250); /* fallback color */
+    background: rgba(222, 242, 250, 0.9);
+}
+.cw-form .cw-header {
+	background:#DEF2FA;
+    background: rgb(239, 248, 252); /* fallback color */
+    background: rgba(239, 248, 252, 0.9);
+	border-bottom: 1px solid #e5e5e5;
+}
+.cw-form .cw-footer {
+	background:#DEF2FA;
+    background: rgb(239, 248, 252); /* fallback color */
+    background: rgba(239, 248, 252, 0.9);
+	border-top: 1px solid #e5e5e5;
+}
+.cw-form input[type=text], input[type=email], select, textarea {
+    border: 1px solid #ddd;
+	background:#F8F8F8;
+    background: rgb(248, 248, 248); /* fallback color */
+    background: rgba(248, 248, 248, 0.9);
+}
+.cw-form input[type=text]:focus, input[type=email]:focus, select:focus, textarea:focus {
+    border: 1px solid #cdcdcd;
+}
+.cw-form .submitbutton{
+    background:#0085ba;
+    color:#f5f5f5;
+}
+.cw-form .submitbutton:hover, .cw-form .submitbutton:focus{
+    background:#337ab7;
+}
+
+
+.cw-form .submitbutton-orange{
+	float:right;
+	padding: 5px 8px 5px 8px;
+	background: #FF9800;
+    color:#f5f5f5;
+	background-size: auto;
+	border: 1px solid transparent;
+	text-decoration: none;
+	border-radius: 4px;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 1.12857;
+    cursor:pointer;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+.cw-form .submitbutton-orange:hover{
+    background: #F57C00;
+}
+
+.cw-form .refreshbutton{
+    background:#4CB1DD;
+    color:#f5f5f5;
+}
+.cw-form .refreshbutton:hover{
+    background:#337ab7;
+}
+.cw-form .filebtn {
+    background:#4CB1DD;
+    color:#f5f5f5;
+}
+.cw-form .filebtn:hover{
+    background:#337ab7;
+}
+/* style icon */
+.cw-form .inner-addon .glyphicon {
+  color:#ADDBEF;
+}
+
+/* add-on style */
+
+.cw-form .textlabel-paymentform {
+	color:#262626;
+	font-size:16px;
+	font-weight: bold;
+	line-height:1.2em;
+    padding: 0px;
+	margin: 6px 2px 2px 18px;
+	float:left;
+	width:100%;
+	text-align:left;
+}
+
+.cw-form .footer-extra-data {
+	background:#EDF8FC;
+}
+
+/* Responsive Table */
+
+.cw-table-responsive table th {
+	background:#E6F4FB;
+}
+
+.cw-table-responsive table tbody tr {
+	background:#EDF8FC;
+}
+
+.cw-table-responsive table thead tr{
+	background:#EDF8FC;
+}
+
+.cw-table-responsive table tbody tr:nth-child(2n+1) td {
+	background:#EDF8FC;
+}

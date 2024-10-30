@@ -1,0 +1,107 @@
+
+
+.pr-table-columns {
+    float: left;
+    width: 25%;
+    padding: 8px;
+}
+
+.pr-table-ul {
+    list-style-type: none;
+    border: 1px solid #eee;
+    margin: 0;
+    padding: 0;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+	background-color: #fff;
+}
+
+.pr-table-ul:hover {
+    box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+}
+
+.pr-table-ul li {
+    border-bottom: 1px solid #eee;
+    text-align: center;
+	font-size: 14px;
+	padding-top:16px;
+	padding-bottom:16px;
+	padding-left: 6px;
+	padding-right: 6px;
+	background-color: #fff;
+}
+
+.pr-table-ul .price {
+    font-size: 28px;
+	vertical-align: middle;
+	text-align: left;
+	height: 60px;
+}
+
+.pr-table-ul .header {
+    color: white;
+    font-size: 30px;
+	padding: 20px;
+	margin-bottom:16px;
+	text-align: left;
+	height: 120px;
+}
+
+.pr-table-ul .description {
+    font-size: 14px;
+	vertical-align: middle;
+	text-align: left;
+	height: 340px;
+}
+
+.pr-table-ul .description-title {
+    font-size: 16px;
+	display:block;
+	padding-bottom:8px;
+}
+
+.pr-table-ul .button {
+    font-size: 14px;
+	vertical-align: middle;
+	height: 60px;
+	box-shadow: 0 8px 12px 0 rgba(0,0,0,0);
+	background-color: #fff;
+}
+
+.pr-table-ul .grey-bg {
+	background-color: #eee;
+}
+
+.pr-table-ul .text-align-left {
+	text-align: left;
+}
+
+.pr-table-button {
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.pr-table-yes {
+    background: rgba(0, 0, 0, 0) url("../images/yes-icon.png") no-repeat;
+    padding-bottom: 0px;
+    padding-left: 22px;
+    padding-top: 0px;
+}
+
+.pr-table-no {
+    background: rgba(0, 0, 0, 0) url("../images/no-icon.png") no-repeat;
+    padding-bottom: 0px;
+    padding-left: 22px;
+    padding-top: 0px;
+}
+
+@media only screen and (max-width: 640px) {
+    .pr-table-columns {
+        width: 100%;
+    }
+}
+

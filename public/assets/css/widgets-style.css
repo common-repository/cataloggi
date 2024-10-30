@@ -1,0 +1,244 @@
+
+
+/* navigation */
+
+.cataloggi-navigation {
+	background-color: rgba(255, 255, 255, 0.6);
+	border:1px solid #EEEEEE;
+	border-radius:2px;
+	text-align:left;
+	max-width:100%;
+	padding-bottom:0px !important;
+	padding-left:15px !important;
+	padding-right:15px !important;
+	margin-left:0px !important;
+	overflow:hidden;
+}
+
+.cataloggi-categories-nav {
+	margin-top:6px;
+	margin-bottom:6px;
+}
+
+.cataloggi-categories-nav .menu, .cataloggi-categories-nav .menu li {
+    margin:0;
+    padding:0;
+    list-style:none;
+    text-indent:4px;
+    font-size: 14px;
+    font-weight: normal;
+	line-height:1.9em;
+	color: rgba(84, 84, 84, 0.8);
+	border-bottom: 0px solid #dce4ea;
+}
+.cataloggi-categories-nav .submenu, .cataloggi-categories-nav .submenu li {
+    margin:0;
+    padding:0;
+    list-style:none; 
+    text-indent:4px;
+    font-size: 14px;
+    font-weight: normal;
+	line-height:1.9em;
+	color: rgba(84, 84, 84, 0.8);
+	border-bottom: 0px solid #dce4ea;
+}
+
+.cataloggi-categories-nav .menu ul {
+	margin:0;
+	padding:0;
+}
+
+.cataloggi-categories-nav .submenu ul {
+	margin:0;
+	padding:0;
+}
+
+.cataloggi-categories-nav a {
+    color:#595959 !important;
+    text-decoration: none;
+	box-shadow: 0 0 0 0;
+	font-weight:normal;
+	/*font-weight:600;*/
+}
+
+.cataloggi-categories-nav a:hover {
+	color: #8A8A8A !important;
+	text-decoration: none;
+	box-shadow: 0 0 0 0;
+}
+
+.cataloggi-categories-nav a:focus {
+    color:#595959 !important;
+    text-decoration: none;
+	box-shadow: 0 0 0 0;
+}
+
+.cataloggi-categories-nav .menu li a::before {
+    border-radius: 14px;
+    border-style: solid;
+    border-width: 0px;
+    /*content: "+";*/
+	content: "\02607";  /* but replace the "U+" with "\". e.g. "U+02607" becomes content: "\02607";  */
+    display: block;
+    float: left;
+    height: 11px;
+    margin-right: 2px;
+    margin-top: 0px;
+	margin-left:12px;
+    width: 14px;
+	border-color: rgba(84, 84, 84, 0.15);
+	color: #ec7a5c !important;
+	opacity: 0.8;
+	font-weight:600;
+}
+
+.cataloggi-categories-nav .submenu li a::before {
+    border-radius: 14px;
+    border-style: solid;
+    border-width: 0px;
+    /*content: "+";*/
+	content: "\02607";
+    display: block;
+    float: left;
+    height: 11px;
+    margin-right: 2px;
+    margin-top: 0px;
+	margin-left:28px;
+    width: 14px;
+	border-color: rgba(84, 84, 84, 0.15);
+	color: #ec7a5c !important;
+	opacity: 0.8;
+	font-weight:600;
+}
+
+/*
+.cataloggi-categories-nav .menu li a::before {
+    border-radius: 14px;
+    border-style: solid;
+    border-width: 1px;
+    content: " ";
+    display: block;
+    float: left;
+    height: 11px;
+    margin-right: 2px;
+    margin-top: 8px;
+	margin-left:12px;
+    width: 14px;
+	border-color: rgba(84, 84, 84, 0.15);
+}
+
+.cataloggi-categories-nav .submenu li a::before {
+    border-radius: 14px;
+    border-style: solid;
+    border-width: 1px;
+    content: " ";
+    display: block;
+    float: left;
+    height: 11px;
+    margin-right: 2px;
+    margin-top: 8px;
+	margin-left:28px;
+    width: 14px;
+	border-color: rgba(84, 84, 84, 0.15);
+}
+*/
+
+/* sidebar search form */
+
+.cataloggi-search-form {
+    padding: 4px;
+	text-align:left !important;
+	overflow:hidden;
+}
+.cataloggi-search-form .fieldsgroup {
+    display:block;
+	width:100%;
+	text-align:center;
+}
+
+.cataloggi-search-form input[type="text"] {
+	color:#666;
+    border: 1px solid #ddd;
+	border-radius: 2px;
+	background:#F8F8F8;
+    background: rgb(248, 248, 248); /* fallback color */
+    background: rgba(248, 248, 248, 0.9);
+    margin: 4px 0px 4px 0px;
+	padding: 6px;
+	font-size:14px;
+	font-weight:normal;
+	width:100%;
+	box-sizing: border-box;
+   -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+    line-height: 18px;
+	box-shadow: none;
+	height:36px !important;
+}
+
+.cataloggi-search-form input[type=text]:focus{
+	border: 1px solid #cdcdcd;
+	background: #fff;
+	color: #666 !important;
+}
+
+.cataloggi-search-form input[type="submit"] {
+	display:inline-block;
+	cursor: pointer;
+	background: #ec7a5c;
+	color: #fff !important;
+	border: 0px solid #ddd;
+	border-radius:2px;
+	margin: 4px 0px 4px 0px;
+	padding:7px;
+	font-size:14px;
+	font-weight:normal;
+	width: 34px;
+	line-height: 18px;
+	box-shadow: none;
+}
+
+.cataloggi-search-form input[type=submit]:hover{
+	background:#F19A85;color:#fff !important;
+}
+
+.cataloggi-no-results-found {
+	font-size:15px;
+	color:#737373 !important;
+	text-transform: capitalize !important;
+	margin-bottom:8px;
+	text-align: left;
+}
+
+
+/* Shopping Basket */
+
+.cataloggi-shopping-basket-holder {
+	display:block;
+	margin-top:4px;
+	margin-bottom:4px;
+}
+
+.cataloggi-shopping-basket-holder .shopping-basket-button {
+	margin-left:6px; vertical-align:middle; font-weight:normal; display:inline-block;
+}
+
+.cataloggi-shopping-basket {
+	display:inline-block; padding-top:0px; padding-bottom:0px; margin-left:0px; text-align:left;
+}
+.cataloggi-shopping-basket .basket-icon {
+	display:inline-block;color:#ec7a5c; font-size:22px; vertical-align:middle;margin-right:2px;
+}
+.cataloggi-shopping-basket .basket-text {
+	display:inline-block; font-size:13px; font-weight:600; vertical-align:middle;
+}
+.cataloggi-shopping-basket .cataloggi-shopping-basket-items {
+	font-size:13px; font-weight:600;
+}
+
+.cataloggi-shopping-basket-link {
+	/*color: #595959 !important;*/
+}
+
+
+

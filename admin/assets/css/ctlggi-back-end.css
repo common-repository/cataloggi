@@ -1,0 +1,275 @@
+
+/* Forms Messages Style */
+.cw-form-msgs .form-messages {
+    padding:10px;
+	max-width:100%;
+	border: 1px solid #e5e5e5;
+	background:#fff;
+    background: rgb(255, 255, 255); /*  fallback color */
+    background: rgba(255, 255, 255, 0.9);
+    color:#e97272;
+	border-radius: 2px;
+    font-size:13px;
+    font-weight:normal;
+    margin:8px 0 8px 0;
+	text-align:left;
+	display:block;
+}
+
+.cw-form-msgs .alert-danger {
+    background-image: linear-gradient(to bottom, #f2dede 0px, #e7c3c3 100%);
+    background-repeat: repeat-x;
+    border-color: #dca7a7;
+    background: #f2dede;
+    color: #a94442;
+}
+
+.cw-form-msgs .alert-success {
+    background-image: linear-gradient(to bottom, #dff0d8 0px, #c8e5bc 100%);
+    background-repeat: repeat-x;
+    border-color: #b2dba1;
+    background: #dff0d8;
+    color: #3c763d;
+}
+
+.cw-form-msgs .alert-info {
+    background-image: linear-gradient(to bottom, #d9edf7 0px, #b9def0 100%);
+    background-repeat: repeat-x;
+    border-color: #9acfea;
+    background: #d9edf7;
+    color: #31708f;
+}
+
+.ctlggi-tooltip {
+	padding-left:20px; /* Or size of icon + spacing */
+}
+
+.tooltip-info-icon {
+	background-image: url("../../../assets/images/info-icon.png");
+	background-position: right center;
+	background-size: 14px 14px;
+	background-repeat: no-repeat;
+	opacity: 0.6;
+	filter: alpha(opacity=60); /* For IE8 and earlier */
+	cursor: pointer;
+}
+
+.ctlggi-tooltip-display {
+	display:none;
+	position: absolute;
+	border-radius:4px;
+	border:0px solid #F7F7F7;
+	background-color: #333333;
+	color: #FFF;
+	font-size:12px;
+	padding:10px;
+	cursor:pointer;
+	margin-right:2px;
+	z-index: 99999999999;
+}
+
+/* MAIN STYLE */
+
+*::after, *::before {
+    box-sizing: border-box;
+}
+*::after, *::before {
+    box-sizing: border-box;
+}
+
+
+.codeweby-admin {
+	font-family: "Open Sans",sans-serif;
+	color:#555;
+	width:100% !important;
+	word-wrap:break-word;
+	overflow:hidden;
+}
+
+/* Make it responsive */
+.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12{float:left;box-sizing:border-box;}
+.row{width:100%;float:left; }
+.row:after{content:'';display:table;clear:both;}
+.col-1{width:6.95833333333%;}
+.col-2{width:15.4166666667%;}
+.col-3{width:23.875%;}
+.col-4{width:32.3333333333%;}
+.col-5{width:40.7916666667%;}
+.col-6{width:49.25%;}
+.col-7{width:57.7083333333%;}
+.col-8{width:66.1666666667%;}
+.col-9{width:74.625%;}
+.col-10{width:83.0833333333%;}
+.col-11{width:91.5416666667%;}
+.col-12{width:98.50%;margin-left:0;}
+
+.cataloggi-text-align-center{text-align:center;}
+.float-left{float:left;}
+.float-right{float:right;}
+.overflow-hidden { overflow:hidden; }
+
+.font-weight-bold {
+	font-weight:bold;
+}
+
+h1{font-size:1.6em;line-height:1.3em;color:#888;}
+h2{font-size:1.4em;line-height:1.3em;color:#888;}
+h3{font-size:1.2em;line-height:1.3em;color:#888;}
+
+h1, h2, h3, h4, h5, h6 {
+    display: block;
+    font-weight: 600;
+}
+
+h2, h3 {
+    margin: 0.2em 0;
+}
+
+p{    
+    font-size: 13px;
+    line-height: 1.5;
+    margin:0; 
+}
+
+/*
+a {
+    color: #0073aa;
+    text-decoration: none;
+}
+
+a:hover{color:#0097DF;}
+a:focus{color:#0073aa;}
+*/
+
+/* Order Details */
+.order-details-title {
+	font-size:20px;
+	margin-top:12px;
+	display:block;
+	line-height:1.2em;
+}
+
+.order-details-title span {
+	display:block;
+	font-size:14px;
+}
+
+.order-total {
+	font-size:14px;
+	font-weight:500;
+}
+
+/* Helpers */
+.margin-left-right-15{margin-left:15px;margin-right:15px;}
+.margin-left-right-25{margin-left:25px;margin-right:25px;}
+.margin-left-top-15{margin-left:15px;margin-top:15px;}
+.margin-left-15{margin-left:15px;}
+.margin-left-25{margin-left:25px;}
+.margin-top-10{margin-top:10px;}
+.margin-top-15{margin-top:15px;}
+.margin-top-25{margin-top:25px;}
+.margin-bottom-5{margin-bottom:5px;}
+.margin-top-bottom-5{margin-top:5px;margin-bottom:5px;}
+.margin-top-bottom-10{margin-top:10px;margin-bottom:10px;}
+.margin-top-bottom-15{margin-top:15px;margin-bottom:15px;}
+.margin-top-bottom-25{margin-top:25px;margin-bottom:25px;}
+.margin-bottom-10{margin-bottom:10px;}
+.margin-bottom-15{margin-bottom:15px;}
+.margin-bottom-25{margin-bottom:25px;}
+.padding-25{padding:25px;}
+.padding-15{padding:15px;}
+.padding-top-bottom-15{padding-bottom:15px;padding-top:15px;}
+.padding-left-right-35{padding-left:35px;padding-right:35px;}
+.padding-left-right-25{padding-left:25px;padding-right:25px;}
+.padding-left-right-15{padding-left:15px;padding-right:15px;}
+.padding-left-right-10{padding-left:10px;padding-right:10px;}
+.padding-left-right-5{padding-left:5px;padding-right:5px;}
+.padding-top-bottom-25{padding-top:25px;padding-bottom:25px;}
+.padding-bottom-25{padding-bottom:25px;}
+.padding-top-15{padding-top:15px;}
+.padding-top-25{padding-top:25px;}
+.padding-bottom-15{padding-bottom:15px;}
+.padding-left-5{padding-left:5px;}
+.padding-left-10{padding-left:10px;}
+.padding-left-15{padding-left:15px;}
+.padding-left-25{padding-left:25px;}
+.padding-right-25{padding-right:25px;}
+
+/* Forms */
+
+.cw-admin-forms {
+	font-size:14px;
+	color: #888;
+	overflow:hidden;
+}
+
+.cw-admin-forms input.inputfield {
+	width:80%; 
+	/*width: 240px;*/
+	padding:5px;
+}
+
+.cw-admin-forms select.selectfield {
+	width:80%; 
+	/*width: 240px;*/
+}
+
+/* ------------------------------ Price Options */
+.ctlggi-price-insert-new-row {
+	display:none;
+}
+
+.ctlggi-price-options-table .ctlggi_price_option_name_input {
+	width:150px;
+}
+
+.ctlggi-price-options-table .ctlggi_price_option_price_input {
+	width:80px;
+}
+
+.ctlggi-price-options-table .ctlggi_price_activation_limit_input {
+	width:70px;
+}
+
+/* ------------------------------ Orders View - Price Options */
+
+.ctlggi_display_price_options_select_field {
+	margin-bottom:12px;
+	margin-top:12px;
+	display:none;
+}
+
+/* ------------------------------ Order Items Data Table */
+
+#ctlggi-order-items-table .input-ctlggi-item-name {
+	width:80%;
+}
+
+#ctlggi-order-items-table .input-ctlggi-item-price {
+	max-width:80px;
+}
+
+#ctlggi-order-items-table .input-ctlggi-item-quantity {
+	max-width:60px;
+}
+
+
+
+@media screen and (max-width:968px){
+	
+/* MAIN STYLE */
+
+section{padding-left:0%;padding-right:0%;}
+.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12{width:100%;padding-left:0px;padding-right:0px;}
+article.col-8, article.col-9{width:100%;}
+aside.col-3, aside.col-4{width:100%;margin-left:0;}
+
+.cw-admin-forms input.inputfield {
+	width:100%;
+}
+.cw-admin-forms select.selectfield {
+	width:100%;
+}
+
+
+}

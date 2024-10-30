@@ -1,0 +1,2507 @@
+# Translation of Plugins - Cataloggi - eCommerce Product Catalog - Stable (latest release) in Hungarian
+# This file is distributed under the same license as the Plugins - Cataloggi - eCommerce Product Catalog - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-29 19:16:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: hu\n"
+"Project-Id-Version: Plugins - Cataloggi - eCommerce Product Catalog - Stable (latest release)\n"
+
+#: admin/metaboxes/items/item-data.php:248
+msgid "Show the Free Download Button if the sale price is empty or 0."
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:244
+msgid "Show Free Download Button"
+msgstr ""
+
+#: public/shortcodes/checkout.php:40 public/shortcodes/payments.php:23
+msgid "Transaction failed."
+msgstr ""
+
+#: public/shortcodes/checkout.php:34 public/shortcodes/payments.php:17
+msgid "The payment is pending."
+msgstr ""
+
+#: public/shopping-cart/payment-gateways/paypal/paypalstandard.php:290
+msgid "PayPal IPN Failed Payment: Transaction failed."
+msgstr ""
+
+#: public/shopping-cart/payment-gateways/paypal/paypalstandard.php:265
+msgid "PayPal IPN Pending Reason: The payment is pending for a reason other than those listed above. For more information, contact PayPal Customer Service."
+msgstr ""
+
+#: public/shopping-cart/payment-gateways/paypal/paypalstandard.php:262
+msgid "PayPal IPN Pending Reason: The payment is pending because you are not yet verified. You must verify your account before you can accept this payment."
+msgstr ""
+
+#: public/shopping-cart/payment-gateways/paypal/paypalstandard.php:259
+msgid "PayPal IPN Pending Reason: The payment is pending because it was made via credit card and you must upgrade your account to Business or Premier status before you can receive the funds."
+msgstr ""
+
+#: public/shopping-cart/payment-gateways/paypal/paypalstandard.php:256
+msgid "PayPal IPN Pending Reason: The payment is pending because it was made to an email address that is not yet registered or confirmed."
+msgstr ""
+
+#: public/shopping-cart/payment-gateways/paypal/paypalstandard.php:253
+msgid "PayPal IPN Pending Reason: The payment is pending because PayPal is reviewing it for compliance with government regulations."
+msgstr ""
+
+#: public/shopping-cart/payment-gateways/paypal/paypalstandard.php:250
+msgid "PayPal IPN Pending Reason: The payment is pending while it is reviewed by PayPal for risk."
+msgstr ""
+
+#: public/shopping-cart/payment-gateways/paypal/paypalstandard.php:247
+msgid "PayPal IPN Pending Reason: You set the payment action to Order and have not yet captured funds."
+msgstr ""
+
+#: public/shopping-cart/payment-gateways/paypal/paypalstandard.php:244
+msgid "PayPal IPN Pending Reason: You do not have a balance in the currency sent, and you do not have your profiles Payment Receiving Preferences option set to automatically convert and accept this payment. As a result, you must manually accept or deny this payment."
+msgstr ""
+
+#: public/shopping-cart/payment-gateways/paypal/paypalstandard.php:241
+msgid "PayPal IPN Pending Reason: The payment is pending because you hold a non-U.S. account and do not have a withdrawal mechanism. You must manually accept or deny this payment from your account."
+msgstr ""
+
+#: public/shopping-cart/payment-gateways/paypal/paypalstandard.php:238
+msgid "PayPal IPN Pending Reason: The payment is pending because it was made by an eCheck that has not yet cleared."
+msgstr ""
+
+#: public/shopping-cart/payment-gateways/paypal/paypalstandard.php:235
+msgid "PayPal IPN Pending Reason: The transaction has been approved and is currently awaiting funding from the bank."
+msgstr ""
+
+#: public/shopping-cart/payment-gateways/paypal/paypalstandard.php:232
+msgid "PayPal IPN Pending Reason: You set the payment action to Authorization and have not yet captured funds."
+msgstr ""
+
+#: public/shopping-cart/payment-gateways/paypal/paypalstandard.php:229
+msgid "PayPal IPN Pending Reason: The payment is pending because your customer did not include a confirmed shipping address."
+msgstr ""
+
+#: admin/settings/gateways/paypalstandard.php:110
+msgid "Live"
+msgstr ""
+
+#: admin/settings/gateways/paypalstandard.php:106
+msgid "Test"
+msgstr ""
+
+#: admin/settings/gateways/paypalstandard.php:102
+msgid "Account Mode"
+msgstr ""
+
+#: admin/settings/gateways/paypalstandard.php:95
+msgid "Test Api Signature"
+msgstr ""
+
+#: admin/settings/gateways/paypalstandard.php:88
+msgid "Test Api Password"
+msgstr ""
+
+#: admin/settings/gateways/paypalstandard.php:81
+msgid "Test Api Username"
+msgstr ""
+
+#: admin/settings/gateways/paypalstandard.php:74
+msgid "Live Api Signature"
+msgstr ""
+
+#: admin/settings/gateways/paypalstandard.php:67
+msgid "Live Api Password"
+msgstr ""
+
+#: admin/settings/gateways/paypalstandard.php:60
+msgid "Live Api Username"
+msgstr ""
+
+#: admin/settings/gateways/paypalstandard.php:18
+msgid "Enable PayPal Standard as a payment method."
+msgstr ""
+
+#: admin/class-ctlggi-admin.php:820
+msgid "PayPal Standard settings has been updated. "
+msgstr ""
+
+#: public/shortcodes/payments.php:557
+msgid "By clicking the \"Complete Payment\" button, you agree with our "
+msgstr ""
+
+#: public/shortcodes/payments.php:535
+msgid "Complete Payment"
+msgstr ""
+
+#: public/shopping-cart/payment-gateways/bacs.php:150
+#: public/shopping-cart/payment-gateways/none.php:150
+#: public/shopping-cart/payment-gateways/paypal/paypalstandard.php:414
+msgid "The order cannot be processed as the payment already completed."
+msgstr ""
+
+#: public/shopping-cart/classes/class-notification-emails.php:749
+msgid "Total: "
+msgstr ""
+
+#: public/shopping-cart/classes/class-notification-emails.php:748
+msgid "Quantity: "
+msgstr ""
+
+#: public/shopping-cart/classes/class-notification-emails.php:747
+msgid "Price: "
+msgstr ""
+
+#: public/shopping-cart/classes/class-notification-emails.php:499
+msgid "Pay Now"
+msgstr ""
+
+#: admin/settings/web-shop/web-shop-settings.php:128
+msgid "Payments page. Shortcodes [ctlggi_payments_totals] and [ctlggi_payments] must be on this page."
+msgstr ""
+
+#: admin/settings/web-shop/web-shop-settings.php:100
+msgid "Payments Page"
+msgstr ""
+
+#: admin/settings/emails/payment-request.php:95
+msgid "[payment_request_button]   - payment request button for to complete payment"
+msgstr ""
+
+#: admin/settings/emails/payment-request.php:94
+msgid "[payment_request_link]     - payment request link for to complete payment"
+msgstr ""
+
+#: admin/settings/emails/payment-request.php:90
+msgid "[order_date]               - order date"
+msgstr ""
+
+#: admin/settings/emails/payment-request.php:89
+msgid "[order_id]                 - order ID"
+msgstr ""
+
+#: admin/settings/emails/payment-request.php:85
+msgid "[order_total]              - order total"
+msgstr ""
+
+#: admin/settings/emails/payment-request.php:84
+msgid "[items]                    - order items list"
+msgstr ""
+
+#: admin/settings/emails/payment-request.php:80
+msgid "[user_company]             - user (buyer) company or business name"
+msgstr ""
+
+#: admin/settings/emails/payment-request.php:79
+msgid "[user_email]               - user (buyer) email"
+msgstr ""
+
+#: admin/settings/emails/payment-request.php:78
+msgid "[user_last_name]           - user (buyer) last name"
+msgstr ""
+
+#: admin/settings/emails/payment-request.php:77
+msgid "[user_first_name]          - user (buyer) first name"
+msgstr ""
+
+#: admin/settings/emails/payment-request.php:41
+msgid "Email subject of the payment request."
+msgstr ""
+
+#: admin/settings/emails/payment-request.php:33
+msgid "Payment request sent from email. Your email address."
+msgstr ""
+
+#: admin/settings/emails/payment-request.php:25
+msgid "Payment request sent from name. E.g. your name or business name."
+msgstr ""
+
+#: admin/settings/emails/payment-request.php:19
+msgid "Payment request email for orders and manually created orders."
+msgstr ""
+
+#: admin/settings/emails/order-receipts.php:107
+msgid "[payment_gateway_data]  - gateway title (name), gateway notes, bank account details (only for Direct Bank Transfer)"
+msgstr ""
+
+#: admin/metaboxes/orders/general-details.php:31
+msgid "Created Date"
+msgstr ""
+
+#: admin/classes/class-orders-metaboxes.php:98
+msgid "Resend Payment Request"
+msgstr ""
+
+#: admin/classes/class-admin-notices.php:81
+msgid "Payment request successfully sent!"
+msgstr ""
+
+#: admin/class-ctlggi-admin.php:1138
+msgid "Payment request settings has been updated. "
+msgstr ""
+
+#: admin/class-ctlggi-admin.php:1004
+#: admin/settings/emails/payment-request.php:18
+#: includes/class-ctlggi-activator.php:676
+msgid "Payment Request"
+msgstr ""
+
+#: admin/settings/template/template-system.php:38
+msgid "Default template for Cataloggi."
+msgstr ""
+
+#: admin/settings/template/template-system.php:16
+msgid "Default Template"
+msgstr ""
+
+#: admin/settings/template/template-system.php:13
+msgid "Set up your custom template for Cataloggi."
+msgstr ""
+
+#: admin/settings/template/template-system.php:12
+msgid "Template Settings"
+msgstr ""
+
+#: admin/class-ctlggi-admin.php:971
+msgid "Template System"
+msgstr ""
+
+#: admin/class-ctlggi-admin.php:970
+#: admin/settings/template/template-layout.php:10
+msgid "Layout"
+msgstr ""
+
+#: admin/class-ctlggi-admin.php:913
+msgid "Template system settings has been updated. "
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Attila Abraham"
+msgstr "Attila Abraham "
+
+#. Description of the plugin/theme
+msgid "Cataloggi is a professional and responsive ecommerce product catalog for those who want to sell digital downloadable products."
+msgstr ""
+
+#. #-#-#-#-#  tmp-cataloggi.pot (Cataloggi 1.1.8)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tmp-cataloggi.pot (Cataloggi 1.1.8)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://cataloggi.com"
+msgstr ""
+
+#: public/widgets/search.php:93
+msgid "Product Search"
+msgstr "Termék Kereső "
+
+#: public/widgets/search.php:32
+msgid "Display the search form field on your sidebar."
+msgstr "Jelenítse meg a keresési űrlap mezőt az oldalsávon. "
+
+#: public/widgets/categories-nav.php:32
+msgid "Display the product categories on your sidebar."
+msgstr "Jelenítse meg a termék kategóriákat az oldalsávon. "
+
+#: public/widgets/basket.php:103 public/widgets/categories-nav.php:98
+#: public/widgets/search.php:98
+msgid "Title:"
+msgstr "Cím: "
+
+#: public/widgets/basket.php:98
+msgid "Cart"
+msgstr "Kosár "
+
+#: public/widgets/basket.php:32
+msgid "Display the shopping basket on your sidebar."
+msgstr "Jelenítse meg a bevásárlókosarat az oldalsávon. "
+
+#: public/shortcodes/sub-category-boxes.php:59
+#: public/shortcodes/sub-category-boxes.php:60
+#: public/shortcodes/sub-category-boxes.php:65
+msgid "View all posts under %s"
+msgstr "Mutads az összes kapcsolódó cikket %s "
+
+#: public/shortcodes/search-results.php:148
+#: public/shortcodes/search-results.php:153
+msgid "No results were found."
+msgstr "Nincs találat. "
+
+#: public/shortcodes/register-form.php:91
+msgid "Sorry! User Registration is disabled."
+msgstr "Sajnálom! A felhasználói regisztráció le van tiltva. "
+
+#: public/shortcodes/product-view.php:132
+msgid "Edit"
+msgstr "SKU: "
+
+#: public/shortcodes/product-view.php:121
+msgid "SKU:"
+msgstr "Módosítás "
+
+#: public/shortcodes/product-view.php:38
+msgid "From"
+msgstr "Tól "
+
+#: public/shortcodes/order-receipt.php:183
+msgid "Company: "
+msgstr "Cég: "
+
+#: public/shortcodes/order-receipt.php:168
+msgid "Last Name: "
+msgstr "Vezetéknév: "
+
+#: public/shortcodes/order-receipt.php:163
+msgid "First Name: "
+msgstr "Keresztnév: "
+
+#: public/shortcodes/order-receipt.php:151
+msgid "Bill To"
+msgstr "Számlázási Cím "
+
+#: public/shortcodes/order-receipt.php:85
+msgid "Receipt"
+msgstr "Nyugta "
+
+#: public/shortcodes/login-manager.php:9 public/shortcodes/register-form.php:74
+msgid "Register"
+msgstr "Regisztráció "
+
+#: public/shortcodes/login-form.php:61 public/shortcodes/login-manager.php:8
+msgid "Login"
+msgstr "Belépés "
+
+#: public/shortcodes/login-form.php:44
+msgid "Remember me"
+msgstr "Emlékezz Rám"
+
+#: public/shortcodes/home-category-boxes.php:67
+#: public/shortcodes/home-category-boxes.php:68
+#: public/shortcodes/home-category-boxes.php:73
+msgid "View all post filed under %s"
+msgstr "Mutasd az összes postot %s "
+
+#: public/shortcodes/forgot-pw-form.php:41
+msgid "Get New Password"
+msgstr "Új jelszó "
+
+#: public/shortcodes/forgot-pw-form.php:22
+msgid "Enter your Username or E-mail address"
+msgstr "Adja meg a felhasználónevét vagy az e-mail címét "
+
+#: public/shortcodes/contact-form.php:93
+msgid "Send"
+msgstr "Küldés "
+
+#: public/shortcodes/contact-form.php:74
+msgid "Message"
+msgstr "Üzenet "
+
+#: public/shortcodes/contact-form.php:50
+msgid "Telephone"
+msgstr "Telefon "
+
+#: public/shortcodes/checkout.php:693
+msgid "By clicking the \"Place Order\" button, you agree with our "
+msgstr "A \"Rendelés\" gombra kattintással, egyetért a "
+
+#: public/shortcodes/checkout.php:671
+msgid "Place Order"
+msgstr "Rendelés "
+
+#: public/shortcodes/checkout.php:642 public/shortcodes/payments.php:506
+msgid "Street Addr. 2"
+msgstr "Utca Házszám 2 "
+
+#: public/shortcodes/checkout.php:630 public/shortcodes/payments.php:494
+msgid "Street Addr. 1"
+msgstr "Utca Házszám 1 "
+
+#: public/shortcodes/checkout.php:499 public/shortcodes/payments.php:346
+msgid "SSL encrypted secure payments."
+msgstr "SSL titkosított biztonságos fizetés. "
+
+#: public/shortcodes/checkout.php:484 public/shortcodes/payments.php:331
+msgid "CVC/CVV"
+msgstr "CVC/CVV "
+
+#: public/shortcodes/checkout.php:476 public/shortcodes/payments.php:323
+msgid "Name on the Card"
+msgstr "Név a Kártyán "
+
+#: public/shortcodes/checkout.php:429 public/shortcodes/payments.php:276
+msgid "Card Expiry Date"
+msgstr "Kártya Lejárati Dátuma "
+
+#: public/shortcodes/checkout.php:421 public/shortcodes/payments.php:268
+msgid "Card Number"
+msgstr "Kártyaszám "
+
+#: public/shortcodes/checkout.php:415 public/shortcodes/payments.php:262
+msgid "Credit Card Details"
+msgstr "Hitelkártya Adatai "
+
+#: public/shortcodes/checkout.php:388 public/shortcodes/register-form.php:55
+msgid "Password Again"
+msgstr "Jelszó Újra "
+
+#: public/shortcodes/checkout.php:380 public/shortcodes/login-form.php:30
+#: public/shortcodes/register-form.php:47
+msgid "Password"
+msgstr "Jelszó "
+
+#: public/shortcodes/checkout.php:368 public/shortcodes/login-form.php:22
+#: public/shortcodes/register-form.php:27
+msgid "Username"
+msgstr "Felhasználónév "
+
+#: public/shortcodes/checkout.php:320 public/shortcodes/contact-form.php:42
+#: public/shortcodes/payments.php:216 public/shortcodes/register-form.php:35
+msgid "E-mail"
+msgstr "Email "
+
+#: public/shortcodes/checkout.php:294 public/shortcodes/payments.php:190
+msgid "Personal Details"
+msgstr "Személyes Adatok "
+
+#: public/shortcodes/checkout.php:179 public/shortcodes/payments.php:77
+msgid "Select Payment Method"
+msgstr "Fizetési Mód Kiválasztása "
+
+#: public/shortcodes/checkout.php:137
+msgid "Click here to login"
+msgstr "Kattintson ide a bejelentkezéshez "
+
+#: public/shortcodes/checkout.php:137
+msgid "Returning customer?"
+msgstr "Visszatérő vásárló? "
+
+#: public/shortcodes/cart.php:99
+msgid "Delete"
+msgstr "Törlés "
+
+#: public/shortcodes/cart.php:98
+msgid "Refresh"
+msgstr "Frissítés "
+
+#: public/shortcodes/cart.php:3
+msgid "Shopping Cart"
+msgstr "Kosár"
+
+#: public/shortcodes/cart-totals.php:82
+msgid "Continue Shopping"
+msgstr "Vásárlás Folytatása "
+
+#: public/shortcodes/cart-totals.php:78
+msgid "Proceed to Checkout"
+msgstr "Tovább a Fizetéshez "
+
+#: public/shortcodes/cart-totals.php:74
+msgid "Update Cart"
+msgstr "Kosár Frissítése "
+
+#: public/shortcodes/cart-totals.php:46
+msgid "Cart Totals"
+msgstr "Kosár Összesen "
+
+#: public/shortcodes/breadcrumbs.php:10
+msgid "Home"
+msgstr "Kezdőlap "
+
+#: public/shortcodes/basket.php:35
+msgid "cart"
+msgstr "Kosár "
+
+#: public/shortcodes/basket.php:34
+msgid "item(s) in my "
+msgstr "tétel(ek) a "
+
+#: public/shopping-cart/payment-gateways/bacs.php:305
+#: public/shopping-cart/payment-gateways/none.php:305
+#: public/shopping-cart/payment-gateways/paypal/paypalstandard.php:590
+msgid "Failed to insert order data."
+msgstr "Nem sikerült menteni rendelési adatokat. "
+
+#: public/shopping-cart/pages-front-end/payment-buttons-form.php:28
+msgid "+ View Cart"
+msgstr "+ Kosár Megtekintése "
+
+#: public/shopping-cart/pages-front-end/payment-buttons-form.php:19
+msgid "- Add to Cart"
+msgstr "- Kosárba "
+
+#: public/shopping-cart/pages-front-end/_template-for-pages.php:20
+msgid "Sidebar"
+msgstr "Oldalsáv "
+
+#: public/shopping-cart/classes/class-validate-order-form.php:185
+#: public/shopping-cart/classes/class-validate-order-form.php:350
+msgid "Order form billing details error."
+msgstr "Megrendelőlap számlázási adatok hiba. "
+
+#: public/shopping-cart/classes/class-validate-order-form.php:340
+msgid "Order form user registration error."
+msgstr "Megrendelőlap felhasználó regisztrálás hiba."
+
+#: public/shopping-cart/classes/class-validate-order-form.php:176
+#: public/shopping-cart/classes/class-validate-order-form.php:331
+msgid "No gateway selected."
+msgstr "Nincs fizetési mód kiválasztva. "
+
+#: public/shopping-cart/classes/class-process-order.php:555
+#: public/shortcodes/checkout.php:28 public/shortcodes/payments.php:11
+msgid "Thank you for your purchase!"
+msgstr "Köszönjük a vásárlást! "
+
+#: public/shopping-cart/classes/class-process-order.php:182
+#: public/shopping-cart/classes/class-validate-order-form.php:166
+#: public/shopping-cart/classes/class-validate-order-form.php:321
+msgid "Nonce verification failed."
+msgstr "Nonce ellenőrzése sikertelen. "
+
+#: public/shopping-cart/classes/class-process-order.php:142
+msgid "Empty data."
+msgstr "Üres adatok. "
+
+#: public/shopping-cart/classes/class-payment-buttons.php:53
+msgid " + View Cart"
+msgstr "+ Kosár Megtekintése "
+
+#: public/shopping-cart/classes/class-payment-buttons.php:52
+msgid " - Add To Cart"
+msgstr "- Kosárba "
+
+#: public/shopping-cart/classes/class-notification-emails.php:574
+msgid "Bank Account Details: "
+msgstr "Bankszámla Adatai: "
+
+#: public/shopping-cart/classes/class-notification-emails.php:568
+msgid "Notes: "
+msgstr "Megjegyzések: "
+
+#: public/shopping-cart/classes/class-notification-emails.php:562
+msgid "Payment Gateway: "
+msgstr "Fizetési Mód: "
+
+#: public/shopping-cart/classes/class-checkout.php:517
+msgid "Postcode/Zip is required."
+msgstr "Irányítószám Szükséges. "
+
+#: public/shopping-cart/classes/class-checkout.php:513
+msgid "Street Addr. 1 is required."
+msgstr "Utca, Házszám szükséges. "
+
+#: public/shopping-cart/classes/class-checkout.php:509
+msgid "City is required."
+msgstr "Város szükséges. "
+
+#: public/shopping-cart/classes/class-checkout.php:505
+msgid "Please select Country."
+msgstr "Kérjük, válasszon országot. "
+
+#: public/shopping-cart/classes/class-checkout.php:485
+msgid "Thank you for your order!"
+msgstr "Köszönjük a megrendelését! "
+
+#: public/shopping-cart/classes/class-cart.php:142
+#: public/shortcodes/cart.php:240
+msgid "< Return to Shop"
+msgstr "< Vissza az áruházhoz "
+
+#: public/shopping-cart/classes/class-cart.php:141
+#: public/shortcodes/cart.php:239
+msgid "Your cart is currently empty."
+msgstr "Az Ön kosara jelenleg üres. "
+
+#: public/shopping-cart/classes/class-amount.php:144
+msgid "Error: Not well formed amount."
+msgstr "Hiba: Nem jól formált összeg. "
+
+#: public/pages/includes/sidebar-search.php:7
+msgid "Search Products"
+msgstr "Termékek Keresése "
+
+#: public/pages/includes/cataloggi-products.php:135
+#: public/shortcodes/search-results.php:118
+msgid "%s"
+msgstr "%s "
+
+#: public/classes/class-wp-rest-api.php:102
+msgid "Only authenticated users can access the REST API."
+msgstr "Csak a regisztrált felhasználók férhetnek hozzá a REST API-hoz."
+
+#: public/classes/class-wp-cron.php:58
+msgid "Once a month"
+msgstr "Havonta egyszer "
+
+#: public/classes/class-wp-cron.php:53
+msgid "Once Weekly"
+msgstr "Heti Egyszeri "
+
+#: public/classes/class-wp-cron.php:48
+msgid "Every Five Seconds"
+msgstr "Minden Öt Percben "
+
+#: public/classes/class-shortcodes.php:471
+#: public/shopping-cart/classes/class-payment-buttons.php:60
+msgid " + Checkout"
+msgstr "+ Fizetés "
+
+#: public/classes/class-shortcodes.php:470
+#: public/shopping-cart/classes/class-payment-buttons.php:59
+msgid " - Buy Now"
+msgstr "- Fizetés Most "
+
+#: public/classes/class-shortcodes.php:439
+msgid "Please enter your contact details and a short message below, we will try to answer your query as soon as possible."
+msgstr "Kérjük, adja meg az elérhetőségeit és egy rövid üzenetet, megpróbálunk kérdésére a lehető leghamarabb válaszolni . "
+
+#: public/classes/class-shortcodes.php:388
+#: public/shortcodes/login-manager.php:10
+msgid "Forgot Password"
+msgstr "Elfelejtett Jelszó "
+
+#: public/classes/class-shortcodes.php:370 public/shortcodes/checkout.php:361
+msgid "Create an Account"
+msgstr "Hozzon létre egy fiókot "
+
+#: public/classes/class-shortcodes.php:353
+msgid "Login to your Account"
+msgstr "Jelentkezz be a fiókodba"
+
+#: public/classes/class-login-register.php:874
+msgid "To reset your password, visit the following address: "
+msgstr "Jelszó visszaállítás itt:"
+
+#: public/classes/class-login-register.php:872
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "Ha ez hiba volt, hagyja figyelmen kívül ezt az e-mailt és semmi sem fog történni."
+
+#: public/classes/class-login-register.php:870
+msgid "Username: %s"
+msgstr "Felhasználónév: %s"
+
+#: public/classes/class-login-register.php:868
+msgid "Someone has requested a password reset for the following account: "
+msgstr "Valaki jelszó módosítást kért  az alábbi fiókon:"
+
+#: public/classes/class-login-register.php:863
+msgid "Password reset request"
+msgstr "Jelszó-visszaállítási kérelem"
+
+#: public/classes/class-login-register.php:808
+msgid "New user registration on your site "
+msgstr "Új felhasználó regisztrált a weboldalán"
+
+#: public/classes/class-login-register.php:805
+msgid "New User Registration"
+msgstr "Új regisztrált felhasználó"
+
+#: public/classes/class-login-register.php:757
+msgid "Please click on the following link to login. "
+msgstr "Kérjük, kattintson az alábbi linkre a bejelentkezéshez."
+
+#: public/classes/class-login-register.php:755
+msgid "Password: "
+msgstr "Jelszó: "
+
+#: public/classes/class-login-register.php:753
+#: public/classes/class-login-register.php:809
+msgid "Username: "
+msgstr "Felhasználónév:"
+
+#: public/classes/class-login-register.php:752
+msgid "Your Registration Details"
+msgstr "A Regisztrációs Adatai"
+
+#: public/classes/class-login-register.php:750
+msgid "Thank you for your registration!"
+msgstr "Köszönjük, hogy regisztrált!"
+
+#: public/classes/class-login-register.php:749
+#: public/classes/class-login-register.php:866
+msgid "Dear "
+msgstr "Kedves "
+
+#: public/classes/class-login-register.php:746
+msgid "Registration Details"
+msgstr "Regisztrációs  Adatok"
+
+#: public/classes/class-login-register.php:693
+msgid "Check your e-mail for the confirmation link. Thank you! "
+msgstr "Ellenőrizze az e-mail fiókját a megerősítő linket elküldtük. Köszönjük!"
+
+#: public/classes/class-login-register.php:582
+msgid "Email sending error."
+msgstr "E-mail küldési hiba."
+
+#: public/classes/class-login-register.php:578
+msgid "Invalid username or email."
+msgstr "Érvénytelen felhasználónév vagy e-mail cím."
+
+#: public/classes/class-login-register.php:574
+msgid "There is no user registered with that email address."
+msgstr "Nincs regisztrált felhasználó ezzel az e-mail címmel."
+
+#: public/classes/class-login-register.php:570
+msgid "Enter a username or e-mail address."
+msgstr "Adja meg a felhasználónevét vagy az e-mail címét."
+
+#: public/classes/class-login-register.php:500
+msgid "You have been successfully registered. Now you can login. Thank you! "
+msgstr "Sikeresen regisztrált. Jelentkezzen be. Köszönjük!"
+
+#: public/classes/class-login-register.php:358
+msgid "Passwords do not match."
+msgstr "A jelszavak nem egyeznek."
+
+#: public/classes/class-login-register.php:354
+#: public/classes/class-login-register.php:410
+msgid "Please enter a password."
+msgstr "Kérjük, írja be a jelszót."
+
+#: public/classes/class-login-register.php:350
+msgid "Invalid email."
+msgstr "Érvénytelen e-mail."
+
+#: public/classes/class-login-register.php:346
+msgid "Email address already taken. Please login or enter a different email address."
+msgstr "E-mail cím már foglalt. Kérjük, jelentkezzen be, vagy adjon meg egy másik e-mail címet."
+
+#: public/classes/class-login-register.php:342
+msgid "Invalid username."
+msgstr "Érvénytelen felhasználónév."
+
+#: public/classes/class-login-register.php:338
+msgid "Username already taken."
+msgstr "A felhasználő név már foglalt."
+
+#: public/classes/class-login-register.php:293
+msgid "Login successful, redirecting..."
+msgstr "Sikeres bejelentkezés, átirányítás folyamatban ..."
+
+#: public/classes/class-login-register.php:200
+msgid "The username you entered does not exist."
+msgstr "A megadott felhasználónév nem létezik."
+
+#: public/classes/class-login-register.php:196
+msgid "Incorrect password entered."
+msgstr "A megadott jelszó helytelen."
+
+#: public/classes/class-login-register.php:176
+msgid "Password is required."
+msgstr "Jelszó szükséges."
+
+#: public/classes/class-login-register.php:172
+msgid "Username is required."
+msgstr "Felhasználónév szükséges."
+
+#: public/classes/class-contact-us.php:118
+msgid "Thank you! We have received your email."
+msgstr "Köszönjük! Megkaptuk az e-mailt."
+
+#: public/classes/class-contact-us.php:111
+msgid "An unexpected error occurred while sending email."
+msgstr "Váratlan hiba történt a levél küldése közben."
+
+#: public/classes/class-contact-us.php:93
+#: public/classes/class-login-register.php:761
+#: public/classes/class-login-register.php:878
+msgid "With Kind Regards,  "
+msgstr "Üdvözlettel,"
+
+#: public/classes/class-contact-us.php:90
+msgid "Message: "
+msgstr "Üzenet:"
+
+#: public/classes/class-contact-us.php:89
+msgid "Subject: "
+msgstr "Tárgy:"
+
+#: public/classes/class-contact-us.php:88
+#: public/shortcodes/order-receipt.php:178
+msgid "Phone: "
+msgstr "Telefon:"
+
+#: public/classes/class-contact-us.php:88
+#: public/classes/class-login-register.php:754
+#: public/classes/class-login-register.php:810
+#: public/shortcodes/order-receipt.php:173
+msgid "Email: "
+msgstr "Email: "
+
+#: public/classes/class-contact-us.php:87
+msgid "Lastname: "
+msgstr "Vezetéknév:"
+
+#: public/classes/class-contact-us.php:87
+msgid "Firstname: "
+msgstr "Keresztnév:"
+
+#: public/classes/class-contact-us.php:86
+msgid " Contact Form "
+msgstr "Kapcsolati Űrlap"
+
+#: public/classes/class-contact-us.php:86
+msgid "Sent From: "
+msgstr "Küldő:"
+
+#: public/classes/class-contact-us.php:85
+msgid "Date: "
+msgstr "Dátum:"
+
+#: public/classes/class-contact-us.php:80
+msgid "Contact Form"
+msgstr "Kapcsolati Űrlap"
+
+#: public/class-ctlggi-public.php:344
+msgid "Signing in, please wait..."
+msgstr "Bejelentkezés, kérem várjon ..."
+
+#: public/api/class-ctlggi-file-download-api.php:737
+msgid "File not exist."
+msgstr "A fájl nem létezik."
+
+#: public/api/class-ctlggi-file-download-api.php:599
+msgid "Cannot find license."
+msgstr "Nem találjuk az engedélyt."
+
+#: public/api/class-ctlggi-file-download-api.php:577
+msgid "Wrong mime type only zip files allowed."
+msgstr "Rossz a MIME-típus csak zip fájlok engedélyezettek."
+
+#: public/api/class-ctlggi-file-download-api.php:533
+msgid "Unable to process license disabled by the provider."
+msgstr "Az engedélyt letiltotta a szolgáltató."
+
+#: public/api/class-ctlggi-file-download-api.php:527
+msgid "Unable to process lisense expired on "
+msgstr "Az engedély lejárt "
+
+#: public/api/class-ctlggi-file-download-api.php:304
+#: public/api/class-ctlggi-file-download-api.php:310
+#: public/api/class-ctlggi-file-download-api.php:605
+#: public/api/class-ctlggi-file-download-api.php:611
+msgid "Invalid request."
+msgstr "Érvénytelen kérelem."
+
+#: public/api/class-ctlggi-file-download-api.php:298
+#: public/api/class-ctlggi-file-download-api.php:459
+#: public/api/class-ctlggi-file-download-api.php:594
+msgid "No File Found."
+msgstr "Nem találjuk a fájlt."
+
+#: public/api/class-ctlggi-file-download-api.php:292
+#: public/api/class-ctlggi-file-download-api.php:588
+msgid "Mime type not found."
+msgstr "Mime típus nem található."
+
+#: public/api/class-ctlggi-file-download-api.php:273
+msgid "Download Access Expired."
+msgstr "Letöltési Hozzáférés Lejárt."
+
+#: public/api/class-ctlggi-file-download-api.php:263
+msgid "Download Limit Exceeded."
+msgstr "Letöltési limit túllépve."
+
+#: public/api/class-ctlggi-file-download-api.php:148
+msgid "Invalid action key provided."
+msgstr "Érvénytelen műveleti kulcs."
+
+#: public/api/class-ctlggi-file-download-api.php:127
+msgid "Download file value is empty."
+msgstr "Letöltési fájl üres."
+
+#: public/api/class-ctlggi-file-download-api.php:123
+msgid "Action value is empty."
+msgstr "Akció értéke üres."
+
+#: public/api/class-ctlggi-file-download-api.php:110
+msgid "No dwfile KEY provided."
+msgstr "Nincs letölthető fájl kulcs megadva."
+
+#: public/api/class-ctlggi-file-download-api.php:106
+msgid "No action KEY provided."
+msgstr "Nincs akció műveleti kulcs megadva."
+
+#: public/account/order-history.php:124
+msgid "You haven't got any orders yet"
+msgstr "Jelenleg Önnek semmilyen rendelése nincs."
+
+#: public/account/order-history.php:105
+msgid "View"
+msgstr "Mutasd"
+
+#: public/account/order-history.php:44
+msgid "Order History"
+msgstr "Eddigi Megrendelések"
+
+#: public/account/order-history-view.php:375
+#: public/shortcodes/product-view.php:137
+msgid "Go Back"
+msgstr "Vissza"
+
+#: public/account/order-history-view.php:291
+#: public/shopping-cart/classes/class-notification-emails.php:729
+#: public/shortcodes/order-receipt.php:386
+msgid "Download Expiry Date: "
+msgstr "Letöltés Lejárati dátuma:"
+
+#: public/account/order-history-view.php:290
+msgid "Download Count: "
+msgstr "Letöltések száma:"
+
+#: public/account/order-history-view.php:289
+#: public/shopping-cart/classes/class-notification-emails.php:728
+#: public/shortcodes/order-receipt.php:385
+msgid "Download Limit: "
+msgstr "Letöltési Korlát:"
+
+#: public/account/order-history-view.php:288
+#: public/shopping-cart/classes/class-notification-emails.php:730
+#: public/shortcodes/order-receipt.php:384
+msgid "Download File: "
+msgstr "Letölthető Fájl:"
+
+#: public/account/order-history-view.php:266
+#: public/shopping-cart/classes/class-notification-emails.php:705
+#: public/shortcodes/order-receipt.php:362
+msgid "Never Expires"
+msgstr "Soha nem jár le"
+
+#: public/account/order-history-view.php:260
+#: public/api/class-ctlggi-file-download-api.php:659
+#: public/shopping-cart/classes/class-notification-emails.php:700
+#: public/shortcodes/order-receipt.php:356
+msgid "Unlimited"
+msgstr "Korlátlan"
+
+#: public/account/order-history-view.php:120
+#: public/account/order-history-view.php:122
+#: public/shortcodes/order-receipt.php:127
+#: public/shortcodes/order-receipt.php:129
+msgid "Order Status: "
+msgstr "Rendelés Állapota:"
+
+#: public/account/order-history-view.php:113
+#: public/shortcodes/order-receipt.php:120
+msgid "Payment Method: "
+msgstr "Fizetési Mód:"
+
+#: public/account/order-history-view.php:106
+#: public/shortcodes/order-receipt.php:114
+msgid "Transaction ID: "
+msgstr "Tranzakció Azonosítója:"
+
+#: public/account/order-history-view.php:98
+#: public/shortcodes/order-receipt.php:106
+msgid "Order Key: "
+msgstr "Rendelési Kulcs:"
+
+#: public/account/order-history-view.php:94
+#: public/shortcodes/order-receipt.php:102
+msgid "Order ID: "
+msgstr "Rendelés ID:"
+
+#: public/account/order-history-view.php:90
+#: public/shortcodes/order-receipt.php:98
+msgid "Order Date: "
+msgstr "Rendelés Dátuma:"
+
+#: public/account/order-history-view.php:77
+msgid "Order Details"
+msgstr "Rendelési Adatok"
+
+#: public/account/order-history-view.php:68 public/account/order-history.php:57
+msgid "Details"
+msgstr "Adatok "
+
+#: includes/class-ctlggi-i18n.php:61
+msgid "Some text"
+msgstr ""
+
+#: includes/class-ctlggi-activator.php:751
+msgid "Order Notification"
+msgstr "Rendelés Értesítés"
+
+#: includes/class-ctlggi-activator.php:591
+msgid "Order Receipt"
+msgstr "Rendelés Nyugta"
+
+#: admin/settings/web-shop/web-shop-settings.php:261
+msgid "Users will be redirected to this page upon successful login."
+msgstr "A felhasználók átirányítása erre az oldalra sikeres bejelentkezést követően."
+
+#: admin/settings/web-shop/web-shop-settings.php:239
+#: admin/settings/web-shop/web-shop-settings.php:248
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: admin/settings/web-shop/web-shop-settings.php:229
+msgid "Login Redirect Page"
+msgstr "Bejelentkezés Utáni Átirányítás"
+
+#: admin/settings/web-shop/web-shop-settings.php:225
+msgid "Current user order history page. Shortcode [ctlggi_order_history] must be on this page."
+msgstr ""
+
+#: admin/settings/web-shop/web-shop-settings.php:197
+msgid "Order History Page"
+msgstr "Megrendelések Oldal"
+
+#: admin/settings/web-shop/web-shop-settings.php:193
+msgid "Buyers will be redirected to this page upon successful payments. You can use [ctlggi_order_receipt] shortcode on this page."
+msgstr ""
+
+#: admin/settings/web-shop/web-shop-settings.php:164
+msgid "Success Page"
+msgstr "Sikeres Fizetés Oldal"
+
+#: admin/settings/web-shop/web-shop-settings.php:160
+msgid "Select your terms & conditions page. This page link will be visible on the checkout page."
+msgstr "Válassza ki a felhasználási feltételek oldalt. Ez a link látható lesz a fizetési oldalon."
+
+#: admin/settings/web-shop/web-shop-settings.php:132
+msgid "Terms Page"
+msgstr "Felhasználási Feltételek Oldal"
+
+#: admin/settings/web-shop/web-shop-settings.php:96
+msgid "Checkout page. Shortcodes [ctlggi_checkout_totals] and [ctlggi_checkout] must be on this page."
+msgstr ""
+
+#: admin/settings/web-shop/web-shop-settings.php:68
+msgid "Checkout Page"
+msgstr "Fizetési Oldal"
+
+#: admin/settings/web-shop/web-shop-settings.php:64
+msgid "Shopping Cart page. Shortcodes [ctlggi_cart] and [ctlggi_cart_totals] must be on this page."
+msgstr ""
+
+#: admin/settings/web-shop/web-shop-settings.php:36
+msgid "Cart Page"
+msgstr "Kosár Oldal"
+
+#: admin/settings/web-shop/web-shop-settings.php:32
+msgid "Activate the webshop."
+msgstr ""
+
+#: admin/settings/web-shop/web-shop-settings.php:29
+msgid "Enable WebShop"
+msgstr ""
+
+#: admin/settings/web-shop/web-shop-settings.php:26
+msgid "WebShop Settings"
+msgstr ""
+
+#: admin/settings/template/template-layout.php:30
+msgid "&lt;/div&gt;"
+msgstr "&lt;/div&gt;"
+
+#: admin/settings/template/template-layout.php:29
+msgid "Use this area to close the open div tags."
+msgstr "Használja ezt a területet, hogy lezárja a nyitott div tagot."
+
+#: admin/settings/template/template-layout.php:25
+msgid "Inner Template Footer"
+msgstr "Belső Sablon Lábléc"
+
+#: admin/settings/template/template-layout.php:20
+msgid "&lt;div class=\"container\" style=\"margin-left: auto; margin-right: auto;\"&gt;"
+msgstr "&lt;div class=\"container\" style=\"margin-left: auto; margin-right: auto;\"&gt;"
+
+#: admin/settings/template/template-layout.php:20
+#: admin/settings/template/template-layout.php:30
+msgid "by default:"
+msgstr "alapértelmezés szerint:"
+
+#: admin/settings/template/template-layout.php:19
+msgid "Use this area to customize the theme layout. For example: remove the \"container\" class then add \"width:100%;\" into the style tag. This  will change the theme width."
+msgstr "Használja ezt a területet, hogy testre szabja a sablon stílust. Például: távolítsa el a \"container\" osztályt, majd adja hozzá a stílus taghoz \"width: 100%;\" . Ez meg fogja változtatni a sablon stílus szélességét."
+
+#: admin/settings/template/template-layout.php:15
+msgid "Inner Template Header"
+msgstr "Belső Sablon Fejléc"
+
+#: admin/settings/template/template-layout.php:11
+msgid "The following options affect the catalog layout style displayed on the frontend."
+msgstr "Az alábbi opciók befolyásolják a katalógus megjelenési stílusát a weboldalon."
+
+#: admin/settings/general/general-settings.php:23
+msgid "Save site settings on plugin uninstallation."
+msgstr "Beállítások mentése a bővítmény eltávolításakor."
+
+#: admin/settings/general/general-settings.php:20
+msgid "Plugin Uninstaller"
+msgstr "Bővítmény Eltávolító"
+
+#: admin/settings/general/general-settings.php:16
+msgid "Save site settings on plugin deactivation."
+msgstr "Beállítások mentése a bővítmény hatástalanításakor. "
+
+#: admin/settings/general/general-settings.php:13
+msgid "Plugin Deactivator"
+msgstr "Bővítmény Hatástalanító "
+
+#: admin/settings/general/general-settings.php:10
+msgid "The above will save the site settings only."
+msgstr ""
+
+#: admin/settings/general/general-currency.php:71
+msgid "Number of Decimals"
+msgstr "Tizedesjegyek Száma"
+
+#: admin/settings/general/general-currency.php:51
+msgid "Thousand Separator"
+msgstr "Tagolás"
+
+#: admin/settings/general/general-currency.php:47
+msgid "Options: Left ($50.00) or Right (50.00$)"
+msgstr "Opciók: Bal ($50.00) vagy Jobb (50.00$)"
+
+#: admin/settings/general/general-currency.php:45
+msgid "Right"
+msgstr "Jobb"
+
+#: admin/settings/general/general-currency.php:44
+msgid "Left"
+msgstr "Bal"
+
+#: admin/settings/general/general-currency.php:40
+msgid "Currency Position"
+msgstr "Deviza Jel Pozicionálása"
+
+#: admin/settings/general/general-currency.php:36
+msgid "Default currency."
+msgstr "Alapértelmezett pénznem."
+
+#: admin/settings/general/general-currency.php:20
+msgid "The following options affect how currency displayed on the frontend."
+msgstr "A következő opciók befolyásolják a pénznem megjelenítését a web oldalon."
+
+#: admin/settings/general/general-currency.php:19
+msgid "Currency Options"
+msgstr "Pénznem Opciók"
+
+#: admin/settings/general/general-catalog.php:239
+msgid "Sub Menu order"
+msgstr "Almenü  Sorrend"
+
+#: admin/settings/general/general-catalog.php:210
+msgid "Sub Menu order by"
+msgstr "Almenü Rendezés"
+
+#: admin/settings/general/general-catalog.php:207
+msgid "The following options affect how sub menu(s) are displayed on the frontend."
+msgstr "A következő opciók befolyásolják az almenük megjelenítését a web oldalon. "
+
+#: admin/settings/general/general-catalog.php:206
+msgid "Sidebar Sub Menu Options"
+msgstr "Oldalsáv Almenü Opciók"
+
+#: admin/settings/general/general-catalog.php:192
+msgid "Parent Menu order"
+msgstr "Fő Menü Sorrend"
+
+#: admin/settings/general/general-catalog.php:163
+msgid "Parent Menu order by"
+msgstr "Fő Menü Rendezés "
+
+#: admin/settings/general/general-catalog.php:160
+msgid "The following options affect how parent menu(s) are displayed on the frontend."
+msgstr "A következő opciók befolyásolják a főmenü(k) megjelenítését a web oldalon. "
+
+#: admin/settings/general/general-catalog.php:159
+msgid "Sidebar Parent Menu Options"
+msgstr "Oldalsáv Fő Menü Opciók"
+
+#: admin/settings/general/general-catalog.php:145
+msgid "Category order"
+msgstr "Kategóriák Sorrend"
+
+#: admin/settings/general/general-catalog.php:116
+msgid "Category order by"
+msgstr "Kategóriák Rendezés "
+
+#: admin/settings/general/general-catalog.php:112
+msgid "Display category boxes on the catalog pages."
+msgstr "A kategória bokszok megjelenítése a katalógus oldalakon."
+
+#: admin/settings/general/general-catalog.php:109
+msgid "Display Category Boxes"
+msgstr "Kategória Bokszok Megjelenítése"
+
+#: admin/settings/general/general-catalog.php:106
+msgid "The following options affect how categories are displayed on the frontend."
+msgstr "A következő opciók befolyásolják a kategóriák megjelenítését a web oldalon. "
+
+#: admin/settings/general/general-catalog.php:105
+msgid "Category Options"
+msgstr "Kategória Opciók"
+
+#: admin/settings/general/general-catalog.php:97
+#: admin/settings/general/general-catalog.php:151
+#: admin/settings/general/general-catalog.php:198
+#: admin/settings/general/general-catalog.php:245
+msgid "DESC"
+msgstr "Csökkenő"
+
+#: admin/settings/general/general-catalog.php:94
+#: admin/settings/general/general-catalog.php:148
+#: admin/settings/general/general-catalog.php:195
+#: admin/settings/general/general-catalog.php:242
+msgid "ASC"
+msgstr "Nüvekvő"
+
+#: admin/settings/general/general-catalog.php:91
+msgid "Items order"
+msgstr "Termékek Sorrend "
+
+#: admin/settings/general/general-catalog.php:86
+#: admin/settings/general/general-catalog.php:140
+#: admin/settings/general/general-catalog.php:187
+#: admin/settings/general/general-catalog.php:234
+msgid "random"
+msgstr "véletlenszerű"
+
+#: admin/settings/general/general-catalog.php:85
+#: admin/settings/general/general-catalog.php:139
+#: admin/settings/general/general-catalog.php:186
+#: admin/settings/general/general-catalog.php:233
+msgid "last modified"
+msgstr "utoljára módosított"
+
+#: admin/settings/general/general-catalog.php:84
+#: admin/settings/general/general-catalog.php:138
+#: admin/settings/general/general-catalog.php:185
+#: admin/settings/general/general-catalog.php:232
+msgid "date"
+msgstr "dátum"
+
+#: admin/settings/general/general-catalog.php:83
+#: admin/settings/general/general-catalog.php:137
+#: admin/settings/general/general-catalog.php:184
+#: admin/settings/general/general-catalog.php:231
+msgid "name"
+msgstr "név"
+
+#: admin/settings/general/general-catalog.php:82
+#: admin/settings/general/general-catalog.php:136
+#: admin/settings/general/general-catalog.php:183
+#: admin/settings/general/general-catalog.php:230
+msgid "title"
+msgstr "cím"
+
+#: admin/settings/general/general-catalog.php:81
+#: admin/settings/general/general-catalog.php:135
+#: admin/settings/general/general-catalog.php:182
+#: admin/settings/general/general-catalog.php:229
+msgid "author"
+msgstr "szerző"
+
+#: admin/settings/general/general-catalog.php:62
+msgid "Items order by"
+msgstr "Termékek Rendezés "
+
+#: admin/settings/general/general-catalog.php:56
+msgid "Items per page"
+msgstr "Termékek Oldalanként"
+
+#: admin/settings/general/general-catalog.php:52
+msgid "Display item short description on item listing page."
+msgstr "A termék rövid leírásának megjelenítése a termék lista oldalon."
+
+#: admin/settings/general/general-catalog.php:49
+msgid "Display Short Description"
+msgstr "A Termék Rövid Leírásának Megjelenítése "
+
+#: admin/settings/general/general-catalog.php:45
+msgid "Display item price on item listing page."
+msgstr "A termék árának megjelenítése a termék lista oldalon. "
+
+#: admin/settings/general/general-catalog.php:42
+msgid "Display Item Price"
+msgstr "A Termék Árának Megjelenítése"
+
+#: admin/settings/general/general-catalog.php:38
+msgid "Display item thumb image on item listing page."
+msgstr "A termék indexképének megjelenítése a termék lista oldalon. "
+
+#: admin/settings/general/general-catalog.php:35
+msgid "Display Item Thumb Image"
+msgstr "A Termék Indexképének Megjelenítése"
+
+#: admin/settings/general/general-catalog.php:31
+msgid "Select default item view option, Normal, Large or List view."
+msgstr "Válassza ki a termék lista alapértelmezett megjelenítési formáját. Normál, nagy vagy lista."
+
+#: admin/settings/general/general-catalog.php:29
+#: public/shortcodes/grid-or-list-view.php:2
+msgid "List"
+msgstr "Lista"
+
+#: admin/settings/general/general-catalog.php:28
+#: public/shortcodes/grid-or-list-view.php:3
+msgid "Large"
+msgstr "Nagy"
+
+#: admin/settings/general/general-catalog.php:27
+#: public/shortcodes/grid-or-list-view.php:4
+msgid "Normal"
+msgstr "Normál"
+
+#: admin/settings/general/general-catalog.php:23
+msgid "Items View"
+msgstr "Termékek Megjelenítése"
+
+#: admin/settings/general/general-catalog.php:20
+msgid "The following options affect how items (products) are displayed on the frontend."
+msgstr "A következő opciók befolyásolják a termékek megjelenítését a web oldalon. "
+
+#: admin/settings/general/general-catalog.php:19
+msgid "Item Options"
+msgstr "Termék Opciók"
+
+#: admin/settings/gateways/paypalstandard.php:55
+msgid "Enter the name of the page style you wish to use or leave blank for default."
+msgstr "Írja be a stílus nevet amit használni szeretne, vagy alapértelmezettként hagyja üresen a mezőt."
+
+#: admin/settings/gateways/paypalstandard.php:52
+msgid "PayPal Page Style"
+msgstr "PayPal Oldal Stílus"
+
+#: admin/settings/gateways/paypalstandard.php:48
+msgid "Your PayPal email address for payments."
+msgstr "PayPal-mail címe a kifizetésekhez."
+
+#: admin/settings/gateways/paypalstandard.php:45
+msgid "PayPal Email"
+msgstr "PayPal Email"
+
+#: admin/settings/gateways/paypalstandard.php:41
+msgid "Description will be shown on the checkout page."
+msgstr "Leírás látható lesz a kifizető oldalon."
+
+#: includes/class-ctlggi-activator.php:397
+msgid "Secure payments via PayPal."
+msgstr "Biztonságos fizetés PayPal-on keresztül."
+
+#: admin/settings/gateways/paypalstandard.php:12
+#: public/shopping-cart/classes/class-payment-gateways.php:83
+msgid "PayPal Standard"
+msgstr "PayPal Standard"
+
+#: admin/settings/gateways/gateway-settings.php:64
+msgid "Default gateway for checkout."
+msgstr "Alapértelmezett kifizetési mód."
+
+#: admin/settings/gateways/gateway-settings.php:34
+msgid "Please Select Gateway"
+msgstr "Válasszon kifizetési módot. "
+
+#: admin/settings/gateways/gateway-settings.php:16
+msgid "Default Gateway"
+msgstr "Alapértelmezett Kifizetési Mód"
+
+#: admin/settings/gateways/gateway-settings.php:13
+msgid "Payment Gateway Settings"
+msgstr "Kifizetési Mód Beállítások"
+
+#: admin/settings/gateways/bacs.php:95
+msgid "Bank account details will be added to the order receipt email. Add your bank account details e.g. Account Name, Bank Name, Account Number, Sort Code, IBAN, BIC / Swift"
+msgstr "A bankszámla adatai hozzá lesznek adva a rendelést igazoló nyugta e-mailhez. A bankszámla adatai, például: fiók neve, a bank neve, számlaszám, rövid kód, IBAN, BIC / Swift"
+
+#: admin/settings/gateways/bacs.php:78
+msgid "Bank Account Details"
+msgstr "Bankszámla Adatai"
+
+#: admin/settings/gateways/bacs.php:68
+msgid "Notes will be added to the order receipt email."
+msgstr "A megjegyzések mező tartalma hozzá lesz adva a rendelést igazoló nyugta e-mailhez. "
+
+#: admin/settings/gateways/bacs.php:51
+msgid "Notes"
+msgstr "Megjegyzések"
+
+#: admin/settings/gateways/bacs.php:40
+msgid "Payment method short description will be shown on the checkout page."
+msgstr "A kifizetési mód rövid leírása látható lesz a kifizetési oldalon."
+
+#: admin/settings/gateways/bacs.php:36
+#: admin/settings/gateways/paypalstandard.php:37
+msgid "Description"
+msgstr "Leírás"
+
+#: admin/settings/gateways/bacs.php:29
+#: admin/settings/gateways/paypalstandard.php:30
+msgid "Title"
+msgstr "Cím"
+
+#: admin/settings/gateways/bacs.php:25
+#: admin/settings/gateways/paypalstandard.php:26
+msgid "Display billing details fields on the checkout page."
+msgstr "Számlázási adatok megjelenítése a kifizetési oldalon."
+
+#: admin/settings/gateways/bacs.php:22
+#: admin/settings/gateways/paypalstandard.php:23
+#: public/shortcodes/checkout.php:524 public/shortcodes/payments.php:383
+msgid "Billing Details"
+msgstr "Számlázási Adatok"
+
+#: admin/settings/gateways/bacs.php:18
+msgid "Enable direct bank transfer as a payment method."
+msgstr "A közvetlen banki átutalás kifizetési mód aktiválása."
+
+#: admin/settings/gateways/bacs.php:12
+msgid "Direct Bank Transfer (BACS)"
+msgstr "Közvetlen Banki Átutalás"
+
+#: admin/settings/gateway-main.php:26
+msgid "Gateway Settings"
+msgstr "Fizetési Mód Beállításai"
+
+#: admin/settings/emails/order-receipts.php:41
+msgid "Email subject of the order receipt."
+msgstr "Az e-mail tárgya a megrendelési nyugtához."
+
+#: admin/settings/emails/order-receipts.php:33
+msgid "Order receipt sent from email. Your email address."
+msgstr "Megrendelési nyugta küldése erről az e-mail címről."
+
+#: admin/settings/emails/order-receipts.php:30
+#: admin/settings/emails/payment-request.php:30
+msgid "\"From\" Email"
+msgstr "Küldő Email"
+
+#: admin/settings/emails/order-receipts.php:25
+msgid "Order receipt sent from name. E.g. your name or business name."
+msgstr "A megrendelési nyugtához adja meg az Ön nevét vagy a cége nevét."
+
+#: admin/settings/emails/order-receipts.php:22
+#: admin/settings/emails/payment-request.php:22
+msgid "\"From\" Name"
+msgstr "Küldő Neve"
+
+#: admin/settings/emails/order-receipts.php:19
+msgid "Buyer will receive an order receipt after purchase."
+msgstr "A megrendelési nyugta elküldése a vevőnek vásárlás után."
+
+#: admin/settings/emails/order-notifications.php:113
+msgid "[payment_gateway_data]  - gateway title (name), gateway notes, bank account details (only for BACS)"
+msgstr "[payment_gateway_data]  - fizetési mód név, fizetési mód megjegyzések, bank számla adatai (közvetlen banki átutaláshoz)"
+
+#: admin/settings/emails/order-notifications.php:112
+#: admin/settings/emails/order-receipts.php:106
+msgid "[payment_gateway]       - gateway base name"
+msgstr "[payment_gateway]       - átjáró alapnév"
+
+#: admin/settings/emails/order-notifications.php:108
+#: admin/settings/emails/order-receipts.php:102
+msgid "[order_date]       - order date"
+msgstr "[order_date]       - megrendelés dátuma"
+
+#: admin/settings/emails/order-notifications.php:107
+#: admin/settings/emails/order-receipts.php:101
+msgid "[order_key]        - order key"
+msgstr "[order_key]        - megrendelés kulcs"
+
+#: admin/settings/emails/order-notifications.php:106
+#: admin/settings/emails/order-receipts.php:100
+msgid "[transaction_id]   - transaction id"
+msgstr "[transaction_id]   - tranzakció azonosítója"
+
+#: admin/settings/emails/order-notifications.php:105
+#: admin/settings/emails/order-receipts.php:99
+msgid "[order_id]         - order ID"
+msgstr "[order_id]         - rendelés azonosító"
+
+#: admin/settings/emails/order-notifications.php:104
+#: admin/settings/emails/order-receipts.php:98
+msgid "[order_status]     - the status of the order E.g. Completed, Failed etc."
+msgstr "[order_status]     - rendelés státusza például: befejezett, nem sikerült ..."
+
+#: admin/settings/emails/order-notifications.php:100
+#: admin/settings/emails/order-receipts.php:94
+msgid "[order_total]      - order total"
+msgstr "[order_total]      - rendelés összesen"
+
+#: admin/settings/emails/order-notifications.php:99
+#: admin/settings/emails/order-receipts.php:93
+msgid "[items]            - order items list"
+msgstr "[items]            - megrendelés termékek lista"
+
+#: admin/settings/emails/order-notifications.php:95
+#: admin/settings/emails/order-receipts.php:89
+msgid "[billing_zip]      - billing zip"
+msgstr "[billing_zip]      - számlázás irányítószám"
+
+#: admin/settings/emails/order-notifications.php:94
+#: admin/settings/emails/order-receipts.php:88
+msgid "[billing_addr_2]   - billing address line 2"
+msgstr "[billing_addr_2]   - számlázási cím 2"
+
+#: admin/settings/emails/order-notifications.php:93
+#: admin/settings/emails/order-receipts.php:87
+msgid "[billing_addr_1]   - billing address line 1"
+msgstr "[billing_addr_1]   - számlázási cím 1"
+
+#: admin/settings/emails/order-notifications.php:92
+#: admin/settings/emails/order-receipts.php:86
+msgid "[billing_state]    - billing state"
+msgstr "[billing_state]    - számlázás megye"
+
+#: admin/settings/emails/order-notifications.php:91
+#: admin/settings/emails/order-receipts.php:85
+msgid "[billing_city]     - billing city"
+msgstr "[billing_city]     - számlázás város"
+
+#: admin/settings/emails/order-notifications.php:90
+#: admin/settings/emails/order-receipts.php:84
+msgid "[billing_country]  - billing country"
+msgstr "[billing_country]  - számlázás ország"
+
+#: admin/settings/emails/order-notifications.php:86
+#: admin/settings/emails/order-receipts.php:80
+msgid "[user_company]     - user (buyer) company or business name"
+msgstr "[user_company]     - felhasználó (vásárló)  neve vagy cégneve"
+
+#: admin/settings/emails/order-notifications.php:85
+#: admin/settings/emails/order-receipts.php:79
+msgid "[user_email]       - user (buyer) email"
+msgstr "[user_email]       - felhasználó (vásárló) email címe"
+
+#: admin/settings/emails/order-notifications.php:84
+#: admin/settings/emails/order-receipts.php:78
+msgid "[user_last_name]   - user (buyer) last name"
+msgstr "[user_last_name]   - felhasználó (vásárló) vezetékneve"
+
+#: admin/settings/emails/order-notifications.php:83
+#: admin/settings/emails/order-receipts.php:77
+msgid "[user_first_name]  - user (buyer) first name"
+msgstr "[user_first_name]  - felhasználó (vásárló) keresztneve "
+
+#: admin/settings/emails/order-notifications.php:79
+#: admin/settings/emails/order-receipts.php:73
+#: admin/settings/emails/payment-request.php:73
+msgid "The following template tags are available:"
+msgstr "A következő sablon tagok elérhetőek:"
+
+#: admin/settings/emails/order-notifications.php:59
+#: admin/settings/emails/order-receipts.php:53
+#: admin/settings/emails/payment-request.php:53
+msgid "Email Content"
+msgstr "E-mail Tartalma"
+
+#: admin/settings/emails/order-notifications.php:46
+msgid "Example for multiple recipients: example1@example.com, example2@example.com, example3@example.com etc."
+msgstr "Példa több címzettnek: example1@example.com, example2@example.com, example3@example.com ..."
+
+#: admin/settings/emails/order-notifications.php:45
+msgid "Send email notification to email(s) upon sales. Separate email addresses by comma ( , )."
+msgstr "Email értesítés küldése a megadott e-mail címekre sikeres fizetés után. Az e-mail címeket vesszővel (,) válassza el."
+
+#: admin/settings/emails/order-notifications.php:39
+msgid "Send To"
+msgstr "Címzett"
+
+#: admin/settings/emails/order-notifications.php:33
+msgid "Email subject of the order notifications."
+msgstr "E-mail tárgya a megrendelés értesítő e-mailhez."
+
+#: admin/settings/emails/order-notifications.php:30
+#: admin/settings/emails/order-receipts.php:38
+#: admin/settings/emails/payment-request.php:38
+#: public/shortcodes/contact-form.php:62
+msgid "Subject"
+msgstr "Tárgy"
+
+#: admin/settings/emails/order-notifications.php:25
+msgid "Enable/Disable order notification email."
+msgstr "Megrendelés értesítő email aktiválása."
+
+#: admin/settings/emails/order-notifications.php:22
+#: admin/settings/gateways/bacs.php:15
+#: admin/settings/gateways/paypalstandard.php:15
+msgid "Enable/Disable"
+msgstr "Bekapcsol/Kikapcsol"
+
+#: admin/settings/emails/order-notifications.php:19
+msgid "You will receive an order notification email for each sales."
+msgstr "Kapni fog egy értesítő emailt minden megrendelés után."
+
+#: admin/settings/emails/email-settings.php:25
+msgid "Please select logo image. The logo image displayed on HTML emails only."
+msgstr "Kérjük, válassza ki a logó képet. A logó kép csak a HTML e-mailekben jelenik meg."
+
+#: admin/settings/emails/email-settings.php:21
+msgid "Emails Logo"
+msgstr "Logó Kép"
+
+#: admin/settings/_fields-not-in-use.php:12
+msgid "The symbol (usually , or .) to separate thousands. by default: . "
+msgstr "A szimbólum (általában , vagy . ) ezer elválasztására. Alapértelmezés szerint: ."
+
+#: admin/settings/_fields-not-in-use.php:9
+#: admin/settings/general/general-currency.php:61
+msgid "Decimal Separator"
+msgstr "Tizedes Jel Elválasztó"
+
+#: admin/settings/_fields-not-in-use.php:5
+msgid "The symbol (usually , or .) to separate thousands. by default: ,"
+msgstr "A szimbólum (általában , vagy . ) ezer elválasztására. Alapértelmezés szerint szerint: ,"
+
+#: admin/settings/_fields-not-in-use.php:2
+msgid "Thousands Separator"
+msgstr "Ezer Elválasztása"
+
+#: admin/metaboxes/orders/order-items.php:348
+msgid "Update Totals"
+msgstr "Összesítés Frissítése"
+
+#: admin/metaboxes/orders/order-items.php:338
+#: public/account/order-history-view.php:357
+#: public/shortcodes/order-receipt.php:452
+msgid "Order Total:"
+msgstr "Rendelés Összesen:"
+
+#: admin/metaboxes/orders/order-items.php:277
+#: public/account/order-history-view.php:144
+#: public/account/order-history-view.php:212 public/shortcodes/cart.php:94
+#: public/shortcodes/cart.php:156 public/shortcodes/checkout-totals.php:13
+#: public/shortcodes/order-receipt.php:240
+#: public/shortcodes/order-receipt.php:308
+#: public/shortcodes/payments-totals.php:22
+msgid "Product"
+msgstr "Termék"
+
+#: admin/metaboxes/orders/order-items.php:199
+msgid "Product Name"
+msgstr "Termék Neve"
+
+#: admin/metaboxes/orders/order-items.php:175
+msgid "Add Item(s)"
+msgstr "Termék(ek) hozzáadása"
+
+#: admin/metaboxes/orders/order-items.php:171
+msgid "If order status is \"Completed\" items are no longer editable."
+msgstr "Ha a megrendelési státusz \"Completed\" a termékek nem módosíthatóak."
+
+#: admin/metaboxes/orders/order-items.php:142
+msgid "Select Price Option"
+msgstr "Ár Opció Választása"
+
+#: admin/metaboxes/orders/order-items.php:34
+msgid "Select Item"
+msgstr "Termék Választás"
+
+#: admin/metaboxes/orders/general-details.php:155
+msgid "Transaction ID"
+msgstr "Tranzakció Azonosítója"
+
+#: admin/metaboxes/orders/general-details.php:100
+msgid "Payment Method"
+msgstr "Fizetési Mód"
+
+#: admin/metaboxes/orders/general-details.php:66
+msgid "Order Status"
+msgstr "Rendelés Állapota"
+
+#: admin/metaboxes/orders/general-details.php:89
+msgid "Order Date"
+msgstr "Rendelés Dátuma"
+
+#: admin/metaboxes/orders/general-details.php:16
+msgid "Payment via"
+msgstr "Fizetési Mód "
+
+#: admin/metaboxes/orders/general-details.php:6
+msgid "details"
+msgstr "adatok"
+
+#: admin/metaboxes/orders/general-details.php:6
+msgid "Order #"
+msgstr "Rendelés #"
+
+#: admin/metaboxes/orders/billing-details.php:165
+#: public/shortcodes/checkout.php:650 public/shortcodes/payments.php:514
+msgid "Postcode/Zip"
+msgstr "Irányítószám"
+
+#: admin/metaboxes/orders/billing-details.php:161
+#: public/shortcodes/checkout.php:622 public/shortcodes/payments.php:486
+msgid "City"
+msgstr "Város"
+
+#: admin/metaboxes/orders/billing-details.php:155
+msgid "Address 2"
+msgstr "Cím (2)"
+
+#: admin/metaboxes/orders/billing-details.php:117
+#: public/shortcodes/checkout.php:534 public/shortcodes/checkout.php:578
+#: public/shortcodes/payments.php:397 public/shortcodes/payments.php:442
+msgid "Please Select ..."
+msgstr "Kérem, válasszon ..."
+
+#: admin/metaboxes/orders/billing-details.php:95
+#: public/shortcodes/checkout.php:564 public/shortcodes/checkout.php:572
+#: public/shortcodes/payments.php:428 public/shortcodes/payments.php:436
+msgid "State"
+msgstr "Megye"
+
+#: admin/metaboxes/orders/billing-details.php:60
+#: public/shortcodes/checkout.php:531 public/shortcodes/payments.php:390
+msgid "Country"
+msgstr "Ország"
+
+#: admin/metaboxes/orders/billing-details.php:56
+msgid "Address 1"
+msgstr "Cím (1)"
+
+#: admin/metaboxes/orders/billing-details.php:46
+#: public/shortcodes/checkout.php:340 public/shortcodes/payments.php:236
+msgid "Company"
+msgstr "Cég"
+
+#: admin/metaboxes/orders/billing-details.php:42
+#: public/shortcodes/checkout.php:328 public/shortcodes/payments.php:224
+msgid "Phone"
+msgstr "Telefon"
+
+#: admin/metaboxes/orders/billing-details.php:23
+msgid "Email"
+msgstr "Email"
+
+#: admin/metaboxes/orders/billing-details.php:19
+#: public/shortcodes/checkout.php:308 public/shortcodes/contact-form.php:30
+#: public/shortcodes/payments.php:204
+msgid "Last Name"
+msgstr "Vezetéknév"
+
+#: admin/metaboxes/orders/billing-details.php:15
+#: public/shortcodes/checkout.php:300 public/shortcodes/contact-form.php:22
+#: public/shortcodes/payments.php:196
+msgid "First Name"
+msgstr "Keresztnév"
+
+#: admin/metaboxes/orders/__theme-forms.php:20
+#: admin/metaboxes/orders/__theme-forms.php:29
+#: admin/metaboxes/orders/__theme-forms.php:52
+#: admin/metaboxes/orders/__theme-forms.php:61
+msgid "Example "
+msgstr "Példa"
+
+#: admin/metaboxes/items/item-data.php:334
+msgid "Please select shipping option."
+msgstr "Kérjük, válassza ki a szállítási opciót."
+
+#: admin/metaboxes/items/item-data.php:332
+msgid "International Flat Rate"
+msgstr "Nemzetközi Átalány"
+
+#: admin/metaboxes/items/item-data.php:331
+msgid "Flat Rate"
+msgstr "Átalány"
+
+#: admin/metaboxes/items/item-data.php:330
+msgid "Local Delivery"
+msgstr "Helyi Kézbesítés"
+
+#: admin/metaboxes/items/item-data.php:329
+msgid "Free Shipping"
+msgstr "Ingyenes Szállítás"
+
+#: admin/metaboxes/items/item-data.php:328
+msgid "Local Pickup"
+msgstr "Helyi Felvétel"
+
+#: admin/metaboxes/items/item-data.php:325
+msgid "Shipping Options"
+msgstr "Szállítási Lehetőségek"
+
+#: admin/metaboxes/items/item-data.php:320
+msgid "Item dimensions is in (cm)."
+msgstr "Termék méretei (cm) -ben."
+
+#: admin/metaboxes/items/item-data.php:315
+msgid "Item Dimensions"
+msgstr "Termék Mérete"
+
+#: admin/metaboxes/items/item-data.php:310
+msgid "Item weight is in (kg)."
+msgstr "Termék súly (kg) - ban."
+
+#: admin/metaboxes/items/item-data.php:307
+msgid "Item Weight"
+msgstr "Termék Súly"
+
+#: admin/metaboxes/items/item-data.php:302
+msgid "Tick if product shipping required."
+msgstr "Jelölje be, ha termék szállítás szükséges."
+
+#: admin/metaboxes/items/item-data.php:298
+msgid "Shipping"
+msgstr "Szállítás"
+
+#: admin/metaboxes/items/item-data.php:275
+msgid "Enter the number of days before the download link expires, or leave blank so it is never expires."
+msgstr "Adja meg a letöltési link lejárati dátumát napokban, vagy hagyja üresen a mezőt így soha nem jár le."
+
+#: admin/metaboxes/items/item-data.php:272
+msgid "Download Expiry"
+msgstr "Letöltés Érvényesség"
+
+#: admin/metaboxes/items/item-data.php:267
+msgid "Leave blank for unlimited re-downloads."
+msgstr "Hagyja üresen a korlátlan letöltésekhez."
+
+#: admin/metaboxes/items/item-data.php:259
+msgid "Downloadable file name and url."
+msgstr "A letölthető fájl neve és elérési útvonala (URL)."
+
+#: admin/metaboxes/items/item-data.php:253
+msgid "Downloadable File"
+msgstr "Letölthető Fájl "
+
+#: admin/metaboxes/items/item-data.php:217
+msgid "Enable downloadable product."
+msgstr "Letölthető Fájl Engedélyezése"
+
+#: admin/metaboxes/items/item-data.php:213
+msgid "Downloadable Product"
+msgstr "Letölthető Termék"
+
+#: admin/metaboxes/items/item-data.php:203
+msgid "Stock Keeping Unit."
+msgstr "Raktározás Egység"
+
+#: admin/metaboxes/items/item-data.php:200
+msgid "SKU"
+msgstr "SKU"
+
+#: admin/metaboxes/items/item-data.php:131
+#: admin/metaboxes/items/item-data.php:159
+#: admin/metaboxes/items/item-data.php:182
+#: admin/metaboxes/orders/order-items.php:309
+msgid "remove"
+msgstr "eltávolítás"
+
+#: admin/metaboxes/items/item-data.php:79
+msgid "Default"
+msgstr "Alapértelmezett"
+
+#: admin/metaboxes/items/item-data.php:77
+msgid "Option Name"
+msgstr "Opció Neve"
+
+#: admin/metaboxes/items/item-data.php:62
+msgid "Enable price options. "
+msgstr "Áropciók engedélyezése."
+
+#: admin/metaboxes/items/item-data.php:58
+msgid "Price Options"
+msgstr "Áropciók"
+
+#: admin/metaboxes/items/item-data.php:53
+msgid "Display the Quantity field next to the payment button. "
+msgstr "A termék mennyiség mező megjelenítése a fizetőgomb mellett."
+
+#: admin/metaboxes/items/item-data.php:49
+#: admin/metaboxes/orders/order-items.php:201
+#: admin/metaboxes/orders/order-items.php:291
+#: public/account/order-history-view.php:146
+#: public/account/order-history-view.php:322 public/shortcodes/cart.php:96
+#: public/shortcodes/cart.php:168 public/shortcodes/order-receipt.php:242
+#: public/shortcodes/order-receipt.php:417
+msgid "Quantity"
+msgstr "Mennyiség"
+
+#: admin/metaboxes/items/item-data.php:45
+msgid "You can change the default currency on the settings page."
+msgstr "Meg lehet változtatni az alapértelmezett pénznemet a beállítások oldalon."
+
+#: admin/metaboxes/items/item-data.php:42
+#: admin/metaboxes/items/item-data.php:78
+msgid "Sale Price"
+msgstr "Eladási Ár"
+
+#: admin/metaboxes/items/item-data.php:37
+msgid "Enter Item regular price or leave blank."
+msgstr "Írja be a termék normál árát vagy hagyja üresen a mezőt."
+
+#: admin/metaboxes/items/item-data.php:36
+#: admin/metaboxes/items/item-data.php:44
+msgid "0.00"
+msgstr "0.00"
+
+#: admin/metaboxes/items/item-data.php:34
+msgid "Regular Price"
+msgstr "Normál Ár"
+
+#: admin/classes/class-taxonomies.php:58
+msgid "New Item Category"
+msgstr "Új Termék Kategória"
+
+#: admin/classes/class-taxonomies.php:57
+msgid "Add New Category"
+msgstr "Új Kategória Hozzáadása"
+
+#: admin/classes/class-taxonomies.php:56
+msgid "Update Category"
+msgstr "Kategória Módosítás"
+
+#: admin/classes/class-taxonomies.php:55
+msgid "Edit Category"
+msgstr "Kategória Szerkesztése"
+
+#: admin/classes/class-taxonomies.php:54
+msgid "All Categories"
+msgstr "Összes Kategória"
+
+#: admin/classes/class-taxonomies.php:53
+msgid "Search Categories"
+msgstr "Kategória Keresés"
+
+#: admin/classes/class-taxonomies.php:52
+msgid "Category"
+msgstr "Kategória"
+
+#: admin/classes/class-taxonomies.php:51
+msgid "Cataloggi Categories"
+msgstr ""
+
+#: admin/classes/class-orders-metaboxes.php:542
+msgid "Order Items"
+msgstr "Rendelési Tételek"
+
+#: admin/classes/class-orders-metaboxes.php:382
+msgid "Order Billing Details"
+msgstr "Rendelés számlázási Adatai"
+
+#: admin/classes/class-orders-metaboxes.php:222
+msgid "Order General Details"
+msgstr "Rendelés Általános Adatok"
+
+#: admin/classes/class-orders-metaboxes.php:93
+msgid "Resend Order Receipt"
+msgstr "Rendelési Nyugta Újraküldése"
+
+#: admin/classes/class-manage-downloads.php:68
+msgid " saved "
+msgstr "mentve"
+
+#: admin/classes/class-items-metaboxes.php:516
+msgid "Use this shortcode to output the Buy Now Button."
+msgstr "Használja ezt a rövid kódot a Vásárlás Most gomb megjelenítéséhez."
+
+#: admin/classes/class-items-metaboxes.php:494
+msgid "Buy Now Button"
+msgstr "Vásárlás Most Gomb"
+
+#: admin/classes/class-items-metaboxes.php:432
+msgid "Enter the Item Short Description or leave it blank."
+msgstr "Írja be a termék rövid leírását vagy hagyja üresen a mezőt."
+
+#: admin/classes/class-items-metaboxes.php:404
+msgid "Short Description"
+msgstr "Rövid Leírás"
+
+#: admin/classes/class-items-metaboxes.php:151
+msgid "Item Data"
+msgstr "Termék Adatok"
+
+#: admin/classes/class-items-metaboxes.php:64
+#: admin/classes/class-items-metaboxes.php:109
+msgid "Select or upload an image."
+msgstr "Kép kiválasztása vagy feltöltése."
+
+#: admin/classes/class-items-metaboxes.php:63
+#: admin/classes/class-items-metaboxes.php:108
+msgid "Select or Upload an Image"
+msgstr "Kép Kiválasztása vagy Feltöltése"
+
+#: admin/classes/class-items-metaboxes.php:61
+#: admin/classes/class-items-metaboxes.php:105
+msgid "Category Thumb Image"
+msgstr "Kategória Mini Kép"
+
+#: admin/classes/class-downloads-list-table.php:123
+msgid "Action"
+msgstr "Akció"
+
+#: admin/classes/class-downloads-list-table.php:122
+msgid "Author"
+msgstr "Szerző"
+
+#: admin/classes/class-downloads-list-table.php:121
+msgid "Download Count"
+msgstr "Letöltések Száma"
+
+#: admin/classes/class-downloads-list-table.php:120
+msgid "Download Expiry Date"
+msgstr "LetöltésLejárati Dátuma"
+
+#: admin/classes/class-downloads-list-table.php:119
+#: admin/metaboxes/items/item-data.php:264
+msgid "Download Limit"
+msgstr "Letöltési Korlát"
+
+#: admin/classes/class-downloads-list-table.php:118
+msgid "Order ID"
+msgstr "Rendelés ID"
+
+#: admin/classes/class-downloads-list-table.php:97
+msgid "update"
+msgstr "frissítés"
+
+#: admin/classes/class-downloads-list-table.php:89
+msgid "x"
+msgstr "x"
+
+#: admin/classes/class-downloads-list-table.php:89
+msgid "reset to never expires"
+msgstr "visszaállít soha nem jár le"
+
+#: admin/classes/class-custom-post-types.php:505
+msgid "%s draft updated."
+msgstr "%s tervezet frissítve."
+
+#: admin/classes/class-custom-post-types.php:504
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: admin/classes/class-custom-post-types.php:504
+msgid "%s scheduled for: <strong>%s</strong>."
+msgstr "%s tervezett: <strong>%s</strong>."
+
+#: admin/classes/class-custom-post-types.php:503
+msgid "%s submitted."
+msgstr "%s postázott."
+
+#: admin/classes/class-custom-post-types.php:502
+msgid "%s saved."
+msgstr "%s mentett."
+
+#: admin/classes/class-custom-post-types.php:500
+msgid "%2$s restored to revision from %1$s"
+msgstr "%2$s visszaállított ettől %1$s"
+
+#: admin/classes/class-custom-post-types.php:498
+msgid "Custom field deleted."
+msgstr "Egyedi mező törölve."
+
+#: admin/classes/class-custom-post-types.php:497
+msgid "Custom field updated."
+msgstr "Egyedi mező frissítve."
+
+#: admin/classes/class-custom-post-types.php:496
+#: admin/classes/class-custom-post-types.php:499
+#: admin/classes/class-custom-post-types.php:501
+msgid "%s updated."
+msgstr "%s frissítve."
+
+#: admin/classes/class-custom-post-types.php:417
+#: public/account/order-history.php:90
+msgid "None"
+msgstr "Nincs"
+
+#: admin/classes/class-custom-post-types.php:360
+msgid "Gateway"
+msgstr "Átjáró"
+
+#: admin/classes/class-custom-post-types.php:359
+#: admin/metaboxes/orders/order-items.php:202
+#: admin/metaboxes/orders/order-items.php:296
+#: public/account/order-history-view.php:147
+#: public/account/order-history-view.php:327
+#: public/account/order-history.php:56 public/shortcodes/cart-totals.php:56
+#: public/shortcodes/cart.php:97 public/shortcodes/cart.php:183
+#: public/shortcodes/checkout-totals.php:14
+#: public/shortcodes/checkout-totals.php:155
+#: public/shortcodes/order-receipt.php:243
+#: public/shortcodes/order-receipt.php:422
+#: public/shortcodes/payments-totals.php:23
+#: public/shortcodes/payments-totals.php:128
+msgid "Total"
+msgstr "Összes"
+
+#: admin/classes/class-custom-post-types.php:358
+#: public/account/order-history.php:55
+msgid "Status"
+msgstr "Állapot"
+
+#: admin/classes/class-custom-post-types.php:357
+#: admin/metaboxes/orders/general-details.php:42
+#: public/shortcodes/order-receipt.php:150
+msgid "Customer"
+msgstr "Vevő"
+
+#: admin/classes/class-custom-post-types.php:289
+msgid "Undefined category"
+msgstr "Meghatározatlan kategória"
+
+#: admin/classes/class-custom-post-types.php:235
+msgid "no image"
+msgstr "nincs kép"
+
+#: admin/classes/class-custom-post-types.php:201
+#: admin/classes/class-custom-post-types.php:361
+#: public/account/order-history.php:54
+msgid "Date"
+msgstr "Dátum"
+
+#: admin/classes/class-custom-post-types.php:200
+msgid "Vendor"
+msgstr "Eladó"
+
+#: admin/classes/class-custom-post-types.php:199
+#: admin/classes/class-custom-post-types.php:356
+#: admin/metaboxes/items/item-data.php:76
+#: admin/settings/general/general-catalog.php:80
+#: admin/settings/general/general-catalog.php:134
+#: admin/settings/general/general-catalog.php:181
+#: admin/settings/general/general-catalog.php:228
+#: public/account/order-history.php:53
+msgid "ID"
+msgstr "ID"
+
+#: admin/classes/class-custom-post-types.php:198
+#: admin/classes/class-taxonomies.php:59 public/widgets/categories-nav.php:93
+msgid "Categories"
+msgstr "Kategóriák"
+
+#: admin/classes/class-custom-post-types.php:197
+#: admin/metaboxes/orders/order-items.php:200
+#: admin/metaboxes/orders/order-items.php:283
+#: public/account/order-history-view.php:145
+#: public/account/order-history-view.php:314 public/shortcodes/cart.php:95
+#: public/shortcodes/cart.php:163 public/shortcodes/order-receipt.php:241
+#: public/shortcodes/order-receipt.php:409
+#: public/shortcodes/product-view.php:40
+msgid "Price"
+msgstr "Ár"
+
+#: admin/classes/class-custom-post-types.php:195
+msgid "Name"
+msgstr "Név"
+
+#: admin/classes/class-custom-post-types.php:133
+msgid "Parent Order:"
+msgstr "Szülőrendelés:"
+
+#: admin/classes/class-custom-post-types.php:132
+msgid "No Orders found in Trash"
+msgstr "Nem található rendelés a kukában"
+
+#: admin/classes/class-custom-post-types.php:131
+msgid "No Orders found"
+msgstr "Nem találhatóak rendelések"
+
+#: admin/classes/class-custom-post-types.php:130
+msgid "Search Orders"
+msgstr "Rendelés Keresés"
+
+#: admin/classes/class-custom-post-types.php:129
+msgid "View Order"
+msgstr "Rendelés Mutatása"
+
+#: admin/classes/class-custom-post-types.php:128
+msgid "New Order"
+msgstr "Új Rendelés"
+
+#: admin/classes/class-custom-post-types.php:127
+msgid "Edit Order"
+msgstr "Rendelés Szerkesztése"
+
+#: admin/classes/class-custom-post-types.php:126
+msgid "Add New Order"
+msgstr "Új Rendelés Készítése"
+
+#: admin/classes/class-custom-post-types.php:125
+msgid "Add New"
+msgstr "Új Hozzáadása"
+
+#: admin/classes/class-custom-post-types.php:124
+#: public/account/order-history-view.php:68
+#: public/shortcodes/checkout-totals.php:4
+#: public/shortcodes/payments-totals.php:13
+msgid "Order"
+msgstr "Rendelés"
+
+#: admin/classes/class-custom-post-types.php:123
+#: admin/classes/class-custom-post-types.php:134
+msgid "Orders"
+msgstr "Rendelések"
+
+#: admin/classes/class-custom-post-types.php:68
+msgid "Remove Item Featured Image"
+msgstr "Termék Kiemelt Kép Eltávolítása "
+
+#: admin/classes/class-custom-post-types.php:67
+msgid "Set Item Featured Image"
+msgstr "Termék Kiemelt Kép Beállítása "
+
+#: admin/classes/class-custom-post-types.php:66
+msgid "Item Featured Image"
+msgstr "Termék Kiemelt Kép"
+
+#: admin/classes/class-custom-post-types.php:63
+msgid "No Items found in Trash"
+msgstr "Nem találhatóak termékek a kukában."
+
+#: admin/classes/class-custom-post-types.php:62
+msgid "No Items found"
+msgstr "Nincs találat"
+
+#: admin/classes/class-custom-post-types.php:61
+msgid "Search Items"
+msgstr "Termék Keresés"
+
+#: admin/classes/class-custom-post-types.php:60
+msgid "View Item"
+msgstr "Termék Mutatása"
+
+#: admin/classes/class-custom-post-types.php:59
+msgid "Items"
+msgstr "Termékek"
+
+#: admin/classes/class-custom-post-types.php:58
+msgid "New Item"
+msgstr "Új Termék"
+
+#: admin/classes/class-custom-post-types.php:57
+msgid "Edit Item"
+msgstr "Termék Szerkesztése "
+
+#: admin/classes/class-custom-post-types.php:55
+#: admin/classes/class-custom-post-types.php:56
+msgid "Add New Item"
+msgstr "Új Termék Hozzáadása"
+
+#: admin/classes/class-custom-post-types.php:54
+#: admin/classes/class-downloads-list-table.php:117
+msgid "Item"
+msgstr "Termék"
+
+#. #-#-#-#-#  tmp-cataloggi.pot (Cataloggi 1.1.8)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/classes/class-custom-post-types.php:53
+#: admin/classes/class-custom-post-types.php:65
+msgid "Cataloggi"
+msgstr ""
+
+#: admin/classes/class-custom-post-statuses.php:184
+msgid "On Hold <span class=\"count\">(%s)</span>"
+msgid_plural "On Hold <span class=\"count\">(%s)</span>"
+msgstr[0] "Tartva <span class=\"count\">(%s)</span>"
+msgstr[1] "Tartva <span class=\"count\">(%s)</span>"
+
+#: admin/classes/class-custom-post-statuses.php:180
+msgctxt "cataloggi"
+msgid "On Hold"
+msgstr ""
+
+#: admin/classes/class-custom-post-statuses.php:166
+msgid "Refunded <span class=\"count\">(%s)</span>"
+msgid_plural "Refunded <span class=\"count\">(%s)</span>"
+msgstr[0] "Visszautalva <span class=\"count\">(%s)</span>"
+msgstr[1] "Visszautalva <span class=\"count\">(%s)</span>"
+
+#: admin/classes/class-custom-post-statuses.php:162
+msgctxt "cataloggi"
+msgid "Refunded"
+msgstr ""
+
+#: admin/classes/class-custom-post-statuses.php:148
+msgid "Cancelled <span class=\"count\">(%s)</span>"
+msgid_plural "Cancelled <span class=\"count\">(%s)</span>"
+msgstr[0] "Törölve <span class=\"count\">(%s)</span>"
+msgstr[1] "Törölve <span class=\"count\">(%s)</span>"
+
+#: admin/classes/class-custom-post-statuses.php:144
+msgctxt "cataloggi"
+msgid "Cancelled"
+msgstr ""
+
+#: admin/classes/class-custom-post-statuses.php:130
+msgid "Failed <span class=\"count\">(%s)</span>"
+msgid_plural "Failed <span class=\"count\">(%s)</span>"
+msgstr[0] "Nem Sikerült <span class=\"count\">(%s)</span>"
+msgstr[1] "Nem Sikerült <span class=\"count\">(%s)</span>"
+
+#: admin/classes/class-custom-post-statuses.php:126
+msgctxt "cataloggi"
+msgid "Failed"
+msgstr ""
+
+#: admin/classes/class-custom-post-statuses.php:112
+msgid "Pending Payment <span class=\"count\">(%s)</span>"
+msgid_plural "Pending Payment <span class=\"count\">(%s)</span>"
+msgstr[0] "Függő Fizetés <span class=\"count\">(%s)</span>"
+msgstr[1] "Függő Fizetés <span class=\"count\">(%s)</span>"
+
+#: admin/classes/class-custom-post-statuses.php:108
+msgctxt "cataloggi"
+msgid "Pending Payment"
+msgstr ""
+
+#: admin/classes/class-custom-post-statuses.php:94
+msgid "Processing <span class=\"count\">(%s)</span>"
+msgid_plural "Processing <span class=\"count\">(%s)</span>"
+msgstr[0] "Feldolgozás Alatt <span class=\"count\">(%s)</span>"
+msgstr[1] "Feldolgozás Alatt <span class=\"count\">(%s)</span>"
+
+#: admin/classes/class-custom-post-statuses.php:90
+msgctxt "cataloggi"
+msgid "Processing"
+msgstr ""
+
+#: admin/classes/class-custom-post-statuses.php:76
+msgid "Completed <span class=\"count\">(%s)</span>"
+msgid_plural "Completed <span class=\"count\">(%s)</span>"
+msgstr[0] "Befejezett <span class=\"count\">(%s)</span>"
+msgstr[1] "Befejezett <span class=\"count\">(%s)</span>"
+
+#: admin/classes/class-custom-post-statuses.php:72
+msgctxt "cataloggi"
+msgid "Completed"
+msgstr ""
+
+#: admin/classes/class-admin-notices.php:57
+msgid "Order receipt successfully sent!"
+msgstr "Rendelés nyugta sikeresen elküldve!"
+
+#: admin/class-ctlggi-admin.php:1189
+msgid "Order notification settings has been updated. "
+msgstr "Rendelés értesítés beállítások frissítve."
+
+#: admin/class-ctlggi-admin.php:1087
+msgid "Order receipt settings has been updated. "
+msgstr "Rendelés nyugta beállítások frissítve."
+
+#: admin/class-ctlggi-admin.php:1036
+msgid "Email settings has been updated. "
+msgstr "Email beállítások frissítve. "
+
+#: admin/class-ctlggi-admin.php:1002
+#: admin/settings/emails/order-notifications.php:18
+msgid "Order Notifications"
+msgstr "Rendelés Értesítések"
+
+#: admin/class-ctlggi-admin.php:1003
+#: admin/settings/emails/order-receipts.php:18
+msgid "Order Receipts"
+msgstr "Rendelés Nyugták"
+
+#: admin/class-ctlggi-admin.php:1001
+#: admin/settings/emails/email-settings.php:18
+msgid "Email Settings"
+msgstr "Email Beállítások"
+
+#: admin/class-ctlggi-admin.php:986
+#: admin/settings/general/general-currency.php:23
+msgid "Currency"
+msgstr "Pénznem"
+
+#: admin/class-ctlggi-admin.php:985
+msgid "Catalog"
+msgstr "Katalógus"
+
+#: admin/class-ctlggi-admin.php:942
+msgid "Emails"
+msgstr "Emailek"
+
+#: admin/class-ctlggi-admin.php:941
+msgid "Payment Gateways"
+msgstr "Fizetési Átjárók"
+
+#: admin/class-ctlggi-admin.php:940
+msgid "Template"
+msgstr "Sablon"
+
+#: admin/class-ctlggi-admin.php:939
+msgid "WebShop"
+msgstr ""
+
+#: admin/class-ctlggi-admin.php:938
+msgid "General"
+msgstr "Általános"
+
+#: admin/class-ctlggi-admin.php:869
+msgid "Template settings has been updated. "
+msgstr "Sablon beállítások frissítve."
+
+#: admin/class-ctlggi-admin.php:722
+msgid "BACS settings has been updated. "
+msgstr "Közvetlen banki átutalás beállítások frissítve. "
+
+#: admin/class-ctlggi-admin.php:656
+msgid "Payment Gateway settings has been updated. "
+msgstr "Fizetési átjáró beállítások frissítve. "
+
+#: admin/class-ctlggi-admin.php:589
+msgid "Settings has been updated. "
+msgstr "Beállítások frissítve. "
+
+#: admin/class-ctlggi-admin.php:533
+msgid "Cart settings has been updated. "
+msgstr "Kosár beállítások frissítve. "
+
+#: admin/class-ctlggi-admin.php:470
+msgid "Currency settings has been updated. "
+msgstr "Pénznem beállítások frissítve. "
+
+#: admin/class-ctlggi-admin.php:419 admin/class-ctlggi-admin.php:476
+#: admin/class-ctlggi-admin.php:539 admin/class-ctlggi-admin.php:595
+#: admin/class-ctlggi-admin.php:663 admin/class-ctlggi-admin.php:729
+#: admin/class-ctlggi-admin.php:827 admin/class-ctlggi-admin.php:876
+#: admin/class-ctlggi-admin.php:920 admin/class-ctlggi-admin.php:1043
+#: admin/class-ctlggi-admin.php:1094 admin/class-ctlggi-admin.php:1145
+#: admin/class-ctlggi-admin.php:1196
+msgid "Failed to save data."
+msgstr "Nem sikerült az adatok mentésé."
+
+#: admin/class-ctlggi-admin.php:413
+msgid "General settings has been updated. "
+msgstr "Általános  beállítások frissítve. "
+
+#: admin/class-ctlggi-admin.php:288
+msgid "Dismiss this notice."
+msgstr "Értesítés elutasítása."
+
+#: admin/class-ctlggi-admin.php:199
+msgid "Cataloggi - Manage Downloads"
+msgstr ""
+
+#: admin/class-ctlggi-admin.php:183 admin/class-ctlggi-admin.php:956
+#: admin/class-ctlggi-admin.php:987
+#: admin/settings/general/general-settings.php:9
+#: admin/settings/settings-main-page.php:3
+msgid "Settings"
+msgstr "Beállítások"
+
+#: admin/class-ctlggi-admin.php:182
+msgid "Cataloggi - Settings"
+msgstr ""
+
+#: admin/class-ctlggi-admin.php:173
+msgid "Downloads"
+msgstr "Letöltések"
+
+#: admin/class-ctlggi-admin.php:172
+msgid "Cataloggi - Order Downloads"
+msgstr ""
+
+#: admin/class-ctlggi-admin.php:152
+msgid "Cataloggi Small Landscape"
+msgstr ""
+
+#: admin/class-ctlggi-admin.php:151
+msgid "Cataloggi Small Portrait"
+msgstr ""
+
+#: admin/class-ctlggi-admin.php:150
+msgid "Cataloggi Item View 640 x 480"
+msgstr ""
+
+#: admin/class-ctlggi-admin.php:149
+msgid "Cataloggi Item Thumb 440 x 330"
+msgstr ""

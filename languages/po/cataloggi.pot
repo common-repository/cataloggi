@@ -1,0 +1,2287 @@
+# Copyright (C) 2016 Lime Catalog
+# This file is distributed under the same license as the Lime Catalog package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Lime Catalog 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/lime-catalog\n"
+"POT-Creation-Date: 2016-12-20 19:47:22+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/class-lmctlg-admin.php:144
+msgid "Lime Catalog Item Thumb 440 x 330"
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:145
+msgid "Lime Catalog Item View 640 x 480"
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:146
+msgid "Lime Catalog Small Portrait"
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:147
+msgid "Lime Catalog Small Landscape"
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:167
+msgid "Lime Catalog - Order Downloads"
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:168
+msgid "Downloads"
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:177
+msgid "Lime Catalog - Settings"
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:178 admin/class-lmctlg-admin.php:758
+#: admin/pages/general/general-settings.php:9
+#: admin/pages/settings-main-page.php:3
+msgid "Settings"
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:194
+msgid "Lime Catalog - Manage Downloads"
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:267
+msgid "Dismiss this notice."
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:386
+msgid "General settings has been updated. "
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:392 admin/class-lmctlg-admin.php:444
+#: admin/class-lmctlg-admin.php:500 admin/class-lmctlg-admin.php:551
+#: admin/class-lmctlg-admin.php:614 admin/class-lmctlg-admin.php:675
+#: admin/class-lmctlg-admin.php:720 admin/class-lmctlg-admin.php:809
+#: admin/class-lmctlg-admin.php:856 admin/class-lmctlg-admin.php:903
+msgid "Failed to save data."
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:438
+msgid "Currency settings has been updated. "
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:494
+msgid "Cart settings has been updated. "
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:545
+msgid "Settings has been updated. "
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:607
+msgid "Payment Gateway settings has been updated. "
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:668
+msgid "BACS settings has been updated. "
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:713
+msgid "Template settings has been updated. "
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:738
+msgid "General"
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:739
+msgid "Template"
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:740
+msgid "Payment Gateways"
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:741
+msgid "Emails"
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:755
+msgid "Catalog"
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:756
+#: admin/pages/general/general-currency.php:23
+msgid "Currency"
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:757 admin/pages/general/general-cart.php:28
+#: public/shortcodes/cart.php:3
+msgid "Shopping Cart"
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:772 admin/pages/emails/email-settings.php:18
+msgid "Email Settings"
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:773 admin/pages/emails/order-receipts.php:18
+msgid "Order Receipts"
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:774
+#: admin/pages/emails/order-notifications.php:18
+msgid "Order Notifications"
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:802
+msgid "Email settings has been updated. "
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:849
+msgid "Order receipt settings has been updated. "
+msgstr ""
+
+#: admin/class-lmctlg-admin.php:896
+msgid "Order notification settings has been updated. "
+msgstr ""
+
+#: admin/classes/lmctlg-admin-notices.php:57
+msgid "Order receipt successfully sent!"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-statuses.php:72
+msgctxt "lime_catalog"
+msgid "Completed"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-statuses.php:76
+msgid "Completed <span class=\"count\">(%s)</span>"
+msgid_plural "Completed <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/classes/lmctlg-custom-post-statuses.php:90
+msgctxt "lime_catalog"
+msgid "Processing"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-statuses.php:94
+msgid "Processing <span class=\"count\">(%s)</span>"
+msgid_plural "Processing <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/classes/lmctlg-custom-post-statuses.php:108
+msgctxt "lime_catalog"
+msgid "Pending Payment"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-statuses.php:112
+msgid "Pending Payment <span class=\"count\">(%s)</span>"
+msgid_plural "Pending Payment <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/classes/lmctlg-custom-post-statuses.php:126
+msgctxt "lime_catalog"
+msgid "Failed"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-statuses.php:130
+msgid "Failed <span class=\"count\">(%s)</span>"
+msgid_plural "Failed <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/classes/lmctlg-custom-post-statuses.php:144
+msgctxt "lime_catalog"
+msgid "Cancelled"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-statuses.php:148
+msgid "Cancelled <span class=\"count\">(%s)</span>"
+msgid_plural "Cancelled <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/classes/lmctlg-custom-post-statuses.php:162
+msgctxt "lime_catalog"
+msgid "Refunded"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-statuses.php:166
+msgid "Refunded <span class=\"count\">(%s)</span>"
+msgid_plural "Refunded <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/classes/lmctlg-custom-post-statuses.php:180
+msgctxt "lime_catalog"
+msgid "On Hold"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-statuses.php:184
+msgid "On Hold <span class=\"count\">(%s)</span>"
+msgid_plural "On Hold <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. #-#-#-#-#  plugin.pot (Lime Catalog 1.0.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/classes/lmctlg-custom-post-types.php:53
+#: admin/classes/lmctlg-custom-post-types.php:65
+msgid "Lime Catalog"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:54
+#: admin/classes/lmctlg-downloads-list-table.php:117
+msgid "Item"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:55
+#: admin/classes/lmctlg-custom-post-types.php:56
+msgid "Add New Item"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:57
+msgid "Edit Item"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:58
+msgid "New Item"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:59
+msgid "Items"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:60
+msgid "View Item"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:61
+msgid "Search Items"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:62
+msgid "No Items found"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:63
+msgid "No Items found in Trash"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:66
+msgid "Item Featured Image"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:67
+msgid "Set Item Featured Image"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:68
+msgid "Remove Item Featured Image"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:120
+#: admin/classes/lmctlg-custom-post-types.php:131
+msgid "Orders"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:121
+#: public/account/order-history-view.php:68
+msgid "Order"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:122
+msgid "Add New"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:123
+msgid "Add New Order"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:124
+msgid "Edit Order"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:125
+msgid "New Order"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:126
+msgid "View Order"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:127
+msgid "Search Orders"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:128
+msgid "No Orders found"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:129
+msgid "No Orders found in Trash"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:130
+msgid "Parent Order:"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:189
+msgid "Name"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:191
+#: admin/pages/orders/order-items.php:200
+#: admin/pages/orders/order-items.php:283
+#: public/account/order-history-view.php:145
+#: public/account/order-history-view.php:314 public/shortcodes/cart.php:95
+#: public/shortcodes/cart.php:163 public/shortcodes/order-receipt.php:241
+#: public/shortcodes/order-receipt.php:409
+#: public/shortcodes/product-view.php:40
+msgid "Price"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:192
+#: admin/classes/lmctlg-taxonomies.php:59 public/widgets/categories-nav.php:93
+msgid "Categories"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:193
+#: admin/classes/lmctlg-custom-post-types.php:350
+#: admin/metaboxes/items/item-data.php:76
+#: admin/pages/general/general-catalog.php:80
+#: admin/pages/general/general-catalog.php:134
+#: admin/pages/general/general-catalog.php:181
+#: admin/pages/general/general-catalog.php:228
+#: public/account/order-history.php:53
+msgid "ID"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:194
+msgid "Vendor"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:195
+#: admin/classes/lmctlg-custom-post-types.php:355
+#: public/account/order-history.php:54
+msgid "Date"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:229
+msgid "no image"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:283
+msgid "Undefined category"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:351
+#: admin/pages/orders/general-details.php:42
+#: public/shortcodes/order-receipt.php:150
+msgid "Customer"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:352
+#: public/account/order-history.php:55
+msgid "Status"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:353
+#: admin/pages/orders/order-items.php:202
+#: admin/pages/orders/order-items.php:296
+#: public/account/order-history-view.php:147
+#: public/account/order-history-view.php:327
+#: public/account/order-history.php:56 public/shortcodes/cart-totals.php:56
+#: public/shortcodes/cart.php:97 public/shortcodes/cart.php:183
+#: public/shortcodes/checkout-totals.php:155
+#: public/shortcodes/order-receipt.php:243
+#: public/shortcodes/order-receipt.php:422
+msgid "Total"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:354
+msgid "Gateway"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:410
+#: public/account/order-history.php:90
+msgid "None"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:489
+#: admin/classes/lmctlg-custom-post-types.php:492
+#: admin/classes/lmctlg-custom-post-types.php:494
+msgid "%s updated."
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:490
+msgid "Custom field updated."
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:491
+msgid "Custom field deleted."
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:493
+msgid "%2$s restored to revision from %1$s"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:495
+msgid "%s saved."
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:496
+msgid "%s submitted."
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:497
+msgid "%s scheduled for: <strong>%s</strong>."
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:497
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: admin/classes/lmctlg-custom-post-types.php:498
+msgid "%s draft updated."
+msgstr ""
+
+#: admin/classes/lmctlg-downloads-list-table.php:89
+msgid "reset to never expires"
+msgstr ""
+
+#: admin/classes/lmctlg-downloads-list-table.php:89
+msgid "x"
+msgstr ""
+
+#: admin/classes/lmctlg-downloads-list-table.php:97
+msgid "update"
+msgstr ""
+
+#: admin/classes/lmctlg-downloads-list-table.php:118
+msgid "Order ID"
+msgstr ""
+
+#: admin/classes/lmctlg-downloads-list-table.php:119
+#: admin/metaboxes/items/item-data.php:255
+msgid "Download Limit"
+msgstr ""
+
+#: admin/classes/lmctlg-downloads-list-table.php:120
+msgid "Download Expiry Date"
+msgstr ""
+
+#: admin/classes/lmctlg-downloads-list-table.php:121
+msgid "Download Count"
+msgstr ""
+
+#: admin/classes/lmctlg-downloads-list-table.php:122
+msgid "Author"
+msgstr ""
+
+#: admin/classes/lmctlg-downloads-list-table.php:123
+msgid "Action"
+msgstr ""
+
+#: admin/classes/lmctlg-items-metaboxes.php:61
+#: admin/classes/lmctlg-items-metaboxes.php:105
+msgid "Category Thumb Image"
+msgstr ""
+
+#: admin/classes/lmctlg-items-metaboxes.php:63
+#: admin/classes/lmctlg-items-metaboxes.php:108
+msgid "Select or Upload an Image"
+msgstr ""
+
+#: admin/classes/lmctlg-items-metaboxes.php:64
+#: admin/classes/lmctlg-items-metaboxes.php:109
+msgid "Select or upload an image."
+msgstr ""
+
+#: admin/classes/lmctlg-items-metaboxes.php:151
+msgid "Item Data"
+msgstr ""
+
+#: admin/classes/lmctlg-items-metaboxes.php:400
+msgid "Short Description"
+msgstr ""
+
+#: admin/classes/lmctlg-items-metaboxes.php:428
+msgid "Enter the Item Short Description or leave it blank."
+msgstr ""
+
+#: admin/classes/lmctlg-items-metaboxes.php:490
+msgid "Buy Now Button"
+msgstr ""
+
+#: admin/classes/lmctlg-items-metaboxes.php:512
+msgid "Use this shortcode to output the Buy Now Button."
+msgstr ""
+
+#: admin/classes/lmctlg-manage-downloads.php:68
+msgid " saved "
+msgstr ""
+
+#: admin/classes/lmctlg-orders-metaboxes.php:91
+msgid "Resend Order Receipt"
+msgstr ""
+
+#: admin/classes/lmctlg-orders-metaboxes.php:219
+msgid "Order General Details"
+msgstr ""
+
+#: admin/classes/lmctlg-orders-metaboxes.php:364
+msgid "Order Billing Details"
+msgstr ""
+
+#: admin/classes/lmctlg-orders-metaboxes.php:524
+msgid "Order Items"
+msgstr ""
+
+#: admin/classes/lmctlg-taxonomies.php:51
+msgid "Lime Catalog Categories"
+msgstr ""
+
+#: admin/classes/lmctlg-taxonomies.php:52
+msgid "Category"
+msgstr ""
+
+#: admin/classes/lmctlg-taxonomies.php:53
+msgid "Search Categories"
+msgstr ""
+
+#: admin/classes/lmctlg-taxonomies.php:54
+msgid "All Categories"
+msgstr ""
+
+#: admin/classes/lmctlg-taxonomies.php:55
+msgid "Edit Category"
+msgstr ""
+
+#: admin/classes/lmctlg-taxonomies.php:56
+msgid "Update Category"
+msgstr ""
+
+#: admin/classes/lmctlg-taxonomies.php:57
+msgid "Add New Category"
+msgstr ""
+
+#: admin/classes/lmctlg-taxonomies.php:58
+msgid "New Item Category"
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:34
+msgid "Regular Price"
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:36
+#: admin/metaboxes/items/item-data.php:44
+msgid "0.00"
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:37
+msgid "Enter Item regular price or leave blank."
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:42
+#: admin/metaboxes/items/item-data.php:78
+msgid "Sale Price"
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:45
+msgid "You can change the default currency on the settings page."
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:49
+#: admin/pages/orders/order-items.php:201
+#: admin/pages/orders/order-items.php:291
+#: public/account/order-history-view.php:146
+#: public/account/order-history-view.php:322 public/shortcodes/cart.php:96
+#: public/shortcodes/cart.php:168 public/shortcodes/order-receipt.php:242
+#: public/shortcodes/order-receipt.php:417
+msgid "Quantity"
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:53
+msgid "Display the Quantity field next to the payment button. "
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:58
+msgid "Price Options"
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:62
+msgid "Enable price options. "
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:77
+msgid "Option Name"
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:79
+msgid "Default"
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:131
+#: admin/metaboxes/items/item-data.php:159
+#: admin/metaboxes/items/item-data.php:182
+#: admin/pages/orders/order-items.php:309
+msgid "remove"
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:200
+msgid "SKU"
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:203
+msgid "Stock Keeping Unit."
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:213
+msgid "Downloadable Product"
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:217
+msgid "Enable downloadable product."
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:244
+msgid "Downloadable File"
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:250
+msgid "Downloadable file name and url."
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:258
+msgid "Leave blank for unlimited re-downloads."
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:263
+msgid "Download Expiry"
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:266
+msgid ""
+"Enter the number of days before the download link expires, or leave blank so "
+"it is never expires."
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:289
+msgid "Shipping"
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:293
+msgid "Tick if product shipping required."
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:298
+msgid "Item Weight"
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:301
+msgid "Item weight is in (kg)."
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:306
+msgid "Item Dimensions"
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:311
+msgid "Item dimensions is in (cm)."
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:316
+msgid "Shipping Options"
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:319
+msgid "Local Pickup"
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:320
+msgid "Free Shipping"
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:321
+msgid "Local Delivery"
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:322
+msgid "Flat Rate"
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:323
+msgid "International Flat Rate"
+msgstr ""
+
+#: admin/metaboxes/items/item-data.php:325
+msgid "Please select shipping option."
+msgstr ""
+
+#: admin/pages/_fields-not-in-use.php:2
+msgid "Thousands Separator"
+msgstr ""
+
+#: admin/pages/_fields-not-in-use.php:5
+msgid "The symbol (usually , or .) to separate thousands. by default: ,"
+msgstr ""
+
+#: admin/pages/_fields-not-in-use.php:9
+#: admin/pages/general/general-currency.php:61
+msgid "Decimal Separator"
+msgstr ""
+
+#: admin/pages/_fields-not-in-use.php:12
+msgid "The symbol (usually , or .) to separate thousands. by default: . "
+msgstr ""
+
+#: admin/pages/emails/email-settings.php:21
+msgid "Emails Logo"
+msgstr ""
+
+#: admin/pages/emails/email-settings.php:25
+msgid "Please select logo image. The logo image displayed on HTML emails only."
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:19
+msgid "You will receive an order notification email for each sales."
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:22
+#: admin/pages/gateways/bacs.php:15 admin/pages/gateways/paypalstandard.php:15
+msgid "Enable/Disable"
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:25
+msgid "Enable/Disable order notification email."
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:30
+#: admin/pages/emails/order-receipts.php:38
+#: public/shortcodes/contact-form.php:62
+msgid "Subject"
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:33
+msgid "Email subject of the order notifications."
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:39
+msgid "Send To"
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:45
+msgid ""
+"Send email notification to email(s) upon sales. Separate email addresses by "
+"comma ( , )."
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:46
+msgid ""
+"Example for multiple recipients: example1@example.com, example2@example.com, "
+"example3@example.com etc."
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:59
+#: admin/pages/emails/order-receipts.php:53
+msgid "Email Content"
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:79
+#: admin/pages/emails/order-receipts.php:73
+msgid "The following template tags are available:"
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:83
+#: admin/pages/emails/order-receipts.php:77
+msgid "[user_first_name]  - user (buyer) first name"
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:84
+#: admin/pages/emails/order-receipts.php:78
+msgid "[user_last_name]   - user (buyer) last name"
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:85
+#: admin/pages/emails/order-receipts.php:79
+msgid "[user_email]       - user (buyer) email"
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:86
+#: admin/pages/emails/order-receipts.php:80
+msgid "[user_company]     - user (buyer) company or business name"
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:90
+#: admin/pages/emails/order-receipts.php:84
+msgid "[billing_country]  - billing country"
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:91
+#: admin/pages/emails/order-receipts.php:85
+msgid "[billing_city]     - billing city"
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:92
+#: admin/pages/emails/order-receipts.php:86
+msgid "[billing_state]    - billing state"
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:93
+#: admin/pages/emails/order-receipts.php:87
+msgid "[billing_addr_1]   - billing address line 1"
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:94
+#: admin/pages/emails/order-receipts.php:88
+msgid "[billing_addr_2]   - billing address line 2"
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:95
+#: admin/pages/emails/order-receipts.php:89
+msgid "[billing_zip]      - billing zip"
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:99
+#: admin/pages/emails/order-receipts.php:93
+msgid "[items]            - order items list"
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:100
+#: admin/pages/emails/order-receipts.php:94
+msgid "[order_total]      - order total"
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:104
+#: admin/pages/emails/order-receipts.php:98
+msgid ""
+"[order_status]     - the status of the order E.g. Completed, Failed etc."
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:105
+#: admin/pages/emails/order-receipts.php:99
+msgid "[order_id]         - order ID"
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:106
+#: admin/pages/emails/order-receipts.php:100
+msgid "[transaction_id]   - transaction id"
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:107
+#: admin/pages/emails/order-receipts.php:101
+msgid "[order_key]        - order key"
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:108
+#: admin/pages/emails/order-receipts.php:102
+msgid "[order_date]       - order date"
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:112
+#: admin/pages/emails/order-receipts.php:106
+msgid "[payment_gateway]       - gateway base name"
+msgstr ""
+
+#: admin/pages/emails/order-notifications.php:113
+#: admin/pages/emails/order-receipts.php:107
+msgid ""
+"[payment_gateway_data]  - gateway title (name), gateway notes, bank account "
+"details (only for BACS)"
+msgstr ""
+
+#: admin/pages/emails/order-receipts.php:19
+msgid "Buyer will receive an order receipt after purchase."
+msgstr ""
+
+#: admin/pages/emails/order-receipts.php:22
+msgid "\"From\" Name"
+msgstr ""
+
+#: admin/pages/emails/order-receipts.php:25
+msgid "Order receipt sent from name. E.g. your name or business name."
+msgstr ""
+
+#: admin/pages/emails/order-receipts.php:30
+msgid "\"From\" Email"
+msgstr ""
+
+#: admin/pages/emails/order-receipts.php:33
+msgid "Order receipt sent from email. Your email address."
+msgstr ""
+
+#: admin/pages/emails/order-receipts.php:41
+msgid "Email subject of the order receipt."
+msgstr ""
+
+#: admin/pages/gateway-main.php:26
+msgid "Gateway Settings"
+msgstr ""
+
+#: admin/pages/gateways/bacs.php:12
+msgid "Direct Bank Transfer (BACS)"
+msgstr ""
+
+#: admin/pages/gateways/bacs.php:18
+msgid "Enable direct bank transfer as a payment method."
+msgstr ""
+
+#: admin/pages/gateways/bacs.php:22 public/shortcodes/checkout.php:486
+msgid "Billing Details"
+msgstr ""
+
+#: admin/pages/gateways/bacs.php:25
+msgid "Display billing details fields on the checkout page."
+msgstr ""
+
+#: admin/pages/gateways/bacs.php:29 admin/pages/gateways/paypalstandard.php:22
+msgid "Title"
+msgstr ""
+
+#: admin/pages/gateways/bacs.php:36 admin/pages/gateways/paypalstandard.php:29
+msgid "Description"
+msgstr ""
+
+#: admin/pages/gateways/bacs.php:40
+msgid "Payment method short description will be shown on the checkout page."
+msgstr ""
+
+#: admin/pages/gateways/bacs.php:51
+msgid "Notes"
+msgstr ""
+
+#: admin/pages/gateways/bacs.php:68
+msgid "Notes will be added to the order receipt email."
+msgstr ""
+
+#: admin/pages/gateways/bacs.php:78
+msgid "Bank Account Details"
+msgstr ""
+
+#: admin/pages/gateways/bacs.php:95
+msgid ""
+"Bank account details will be added to the order receipt email. Add your bank "
+"account details e.g. Account Name, Bank Name, Account Number, Sort Code, "
+"IBAN, BIC / Swift"
+msgstr ""
+
+#: admin/pages/gateways/gateway-settings.php:13
+msgid "Payment Gateway Settings"
+msgstr ""
+
+#: admin/pages/gateways/gateway-settings.php:16
+msgid "Default Gateway"
+msgstr ""
+
+#: admin/pages/gateways/gateway-settings.php:34
+msgid "Please Select Gateway"
+msgstr ""
+
+#: admin/pages/gateways/gateway-settings.php:64
+msgid "Default gateway for checkout."
+msgstr ""
+
+#: admin/pages/gateways/paypalstandard.php:12
+msgid "PayPal Standard"
+msgstr ""
+
+#: admin/pages/gateways/paypalstandard.php:18
+msgid "Enable PayPal Standard"
+msgstr ""
+
+#: admin/pages/gateways/paypalstandard.php:32
+msgid "Secure payments via PayPal."
+msgstr ""
+
+#: admin/pages/gateways/paypalstandard.php:33
+msgid "Description will be shown on the checkout page."
+msgstr ""
+
+#: admin/pages/gateways/paypalstandard.php:37
+msgid "PayPal Email"
+msgstr ""
+
+#: admin/pages/gateways/paypalstandard.php:40
+msgid "Your PayPal email address for payments."
+msgstr ""
+
+#: admin/pages/gateways/paypalstandard.php:44
+msgid "PayPal Page Style"
+msgstr ""
+
+#: admin/pages/gateways/paypalstandard.php:47
+msgid ""
+"Enter the name of the page style you wish to use or leave blank for default."
+msgstr ""
+
+#: admin/pages/gateways/paypalstandard.php:52
+msgid "PayPal Sandbox"
+msgstr ""
+
+#: admin/pages/gateways/paypalstandard.php:55
+msgid "Enable PayPal sandbox"
+msgstr ""
+
+#: admin/pages/gateways/paypalstandard.php:56
+msgid "PayPal sandbox for test payments. Sign up for a developer account"
+msgstr ""
+
+#: admin/pages/gateways/paypalstandard.php:57
+msgid "here"
+msgstr ""
+
+#: admin/pages/general/general-cart.php:31
+msgid "Enable Shopping Cart"
+msgstr ""
+
+#: admin/pages/general/general-cart.php:34
+msgid "Activate the ecommerce online store."
+msgstr ""
+
+#: admin/pages/general/general-cart.php:38
+msgid "Cart Page"
+msgstr ""
+
+#: admin/pages/general/general-cart.php:66
+msgid ""
+"Shopping Cart page. Shortcodes [lmctlg_cart] and [lmctlg_cart_totals] must "
+"be on this page."
+msgstr ""
+
+#: admin/pages/general/general-cart.php:70
+msgid "Checkout Page"
+msgstr ""
+
+#: admin/pages/general/general-cart.php:98
+msgid ""
+"Checkout page. Shortcodes [lmctlg_checkout_totals] and [lmctlg_checkout] "
+"must be on this page."
+msgstr ""
+
+#: admin/pages/general/general-cart.php:102
+msgid "Terms Page"
+msgstr ""
+
+#: admin/pages/general/general-cart.php:130
+msgid ""
+"Select your terms & conditions page. This page link will be visible on the "
+"checkout page."
+msgstr ""
+
+#: admin/pages/general/general-cart.php:134
+msgid "Success Page"
+msgstr ""
+
+#: admin/pages/general/general-cart.php:163
+msgid ""
+"Buyers will be redirected to this page upon successful payments. You can use "
+"[lmctlg_order_receipt] shortcode on this page."
+msgstr ""
+
+#: admin/pages/general/general-cart.php:167
+msgid "Order History Page"
+msgstr ""
+
+#: admin/pages/general/general-cart.php:195
+msgid ""
+"Current user order history page. Shortcode [lmctlg_order_history] must be on "
+"this page."
+msgstr ""
+
+#: admin/pages/general/general-cart.php:199
+msgid "Login Redirect Page"
+msgstr ""
+
+#: admin/pages/general/general-cart.php:209
+#: admin/pages/general/general-cart.php:218
+msgid "Dashboard"
+msgstr ""
+
+#: admin/pages/general/general-cart.php:231
+msgid "Users will be redirected to this page upon successful login."
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:19
+msgid "Item Options"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:20
+msgid ""
+"The following options affect how items (products) are displayed on the "
+"frontend."
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:23
+msgid "Items View"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:27
+#: public/shortcodes/grid-or-list-view.php:4
+msgid "Normal"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:28
+#: public/shortcodes/grid-or-list-view.php:3
+msgid "Large"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:29
+#: public/shortcodes/grid-or-list-view.php:2
+msgid "List"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:31
+msgid "Select default item view option, Normal, Large or List view."
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:35
+msgid "Display Item Thumb Image"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:38
+msgid "Display item thumb image on item listing page."
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:42
+msgid "Display Item Price"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:45
+msgid "Display item price on item listing page."
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:49
+msgid "Display Short Description"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:52
+msgid "Display item short description on item listing page."
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:56
+msgid "Items per page"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:62
+msgid "Items order by"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:81
+#: admin/pages/general/general-catalog.php:135
+#: admin/pages/general/general-catalog.php:182
+#: admin/pages/general/general-catalog.php:229
+msgid "author"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:82
+#: admin/pages/general/general-catalog.php:136
+#: admin/pages/general/general-catalog.php:183
+#: admin/pages/general/general-catalog.php:230
+msgid "title"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:83
+#: admin/pages/general/general-catalog.php:137
+#: admin/pages/general/general-catalog.php:184
+#: admin/pages/general/general-catalog.php:231
+msgid "name"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:84
+#: admin/pages/general/general-catalog.php:138
+#: admin/pages/general/general-catalog.php:185
+#: admin/pages/general/general-catalog.php:232
+msgid "date"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:85
+#: admin/pages/general/general-catalog.php:139
+#: admin/pages/general/general-catalog.php:186
+#: admin/pages/general/general-catalog.php:233
+msgid "last modified"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:86
+#: admin/pages/general/general-catalog.php:140
+#: admin/pages/general/general-catalog.php:187
+#: admin/pages/general/general-catalog.php:234
+msgid "random"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:91
+msgid "Items order"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:94
+#: admin/pages/general/general-catalog.php:148
+#: admin/pages/general/general-catalog.php:195
+#: admin/pages/general/general-catalog.php:242
+msgid "ASC"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:97
+#: admin/pages/general/general-catalog.php:151
+#: admin/pages/general/general-catalog.php:198
+#: admin/pages/general/general-catalog.php:245
+msgid "DESC"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:105
+msgid "Category Options"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:106
+msgid ""
+"The following options affect how categories are displayed on the frontend."
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:109
+msgid "Display Category Boxes"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:112
+msgid "Display category boxes on the catalog pages."
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:116
+msgid "Category order by"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:145
+msgid "Category order"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:159
+msgid "Sidebar Parent Menu Options"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:160
+msgid ""
+"The following options affect how parent menu(s) are displayed on the "
+"frontend."
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:163
+msgid "Parent Menu order by"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:192
+msgid "Parent Menu order"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:206
+msgid "Sidebar Sub Menu Options"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:207
+msgid ""
+"The following options affect how sub menu(s) are displayed on the frontend."
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:210
+msgid "Sub Menu order by"
+msgstr ""
+
+#: admin/pages/general/general-catalog.php:239
+msgid "Sub Menu order"
+msgstr ""
+
+#: admin/pages/general/general-currency.php:19
+msgid "Currency Options"
+msgstr ""
+
+#: admin/pages/general/general-currency.php:20
+msgid "The following options affect how currency displayed on the frontend."
+msgstr ""
+
+#: admin/pages/general/general-currency.php:36
+msgid "Default currency."
+msgstr ""
+
+#: admin/pages/general/general-currency.php:40
+msgid "Currency Position"
+msgstr ""
+
+#: admin/pages/general/general-currency.php:44
+msgid "Left"
+msgstr ""
+
+#: admin/pages/general/general-currency.php:45
+msgid "Right"
+msgstr ""
+
+#: admin/pages/general/general-currency.php:47
+msgid "Options: Left ($50.00) or Right (50.00$)"
+msgstr ""
+
+#: admin/pages/general/general-currency.php:51
+msgid "Thousand Separator"
+msgstr ""
+
+#: admin/pages/general/general-currency.php:71
+msgid "Number of Decimals"
+msgstr ""
+
+#: admin/pages/general/general-settings.php:12
+msgid "Plugin Deactivator"
+msgstr ""
+
+#: admin/pages/general/general-settings.php:15
+msgid "Save site settings on plugin deactivation."
+msgstr ""
+
+#: admin/pages/general/general-settings.php:19
+msgid "Plugin Uninstaller"
+msgstr ""
+
+#: admin/pages/general/general-settings.php:22
+msgid "Save site settings on plugin uninstallation."
+msgstr ""
+
+#: admin/pages/orders/__theme-forms.php:20
+#: admin/pages/orders/__theme-forms.php:29
+#: admin/pages/orders/__theme-forms.php:52
+#: admin/pages/orders/__theme-forms.php:61
+msgid "Example "
+msgstr ""
+
+#: admin/pages/orders/billing-details.php:15
+#: public/shortcodes/checkout.php:262 public/shortcodes/contact-form.php:22
+msgid "First Name"
+msgstr ""
+
+#: admin/pages/orders/billing-details.php:19
+#: public/shortcodes/checkout.php:270 public/shortcodes/contact-form.php:30
+msgid "Last Name"
+msgstr ""
+
+#: admin/pages/orders/billing-details.php:23
+msgid "Email"
+msgstr ""
+
+#: admin/pages/orders/billing-details.php:42
+#: public/shortcodes/checkout.php:290
+msgid "Phone"
+msgstr ""
+
+#: admin/pages/orders/billing-details.php:46
+#: public/shortcodes/checkout.php:302
+msgid "Company"
+msgstr ""
+
+#: admin/pages/orders/billing-details.php:56
+msgid "Address 1"
+msgstr ""
+
+#: admin/pages/orders/billing-details.php:60
+#: public/shortcodes/checkout.php:493
+msgid "Country"
+msgstr ""
+
+#: admin/pages/orders/billing-details.php:95
+#: public/shortcodes/checkout.php:526 public/shortcodes/checkout.php:534
+msgid "State"
+msgstr ""
+
+#: admin/pages/orders/billing-details.php:117
+#: public/shortcodes/checkout.php:496 public/shortcodes/checkout.php:540
+msgid "Please Select ..."
+msgstr ""
+
+#: admin/pages/orders/billing-details.php:155
+msgid "Address 2"
+msgstr ""
+
+#: admin/pages/orders/billing-details.php:161
+#: public/shortcodes/checkout.php:584
+msgid "City"
+msgstr ""
+
+#: admin/pages/orders/billing-details.php:165
+#: public/shortcodes/checkout.php:612
+msgid "Postcode/Zip"
+msgstr ""
+
+#: admin/pages/orders/general-details.php:6
+msgid "Order #"
+msgstr ""
+
+#: admin/pages/orders/general-details.php:6
+msgid "details"
+msgstr ""
+
+#: admin/pages/orders/general-details.php:16
+msgid "Payment via"
+msgstr ""
+
+#: admin/pages/orders/general-details.php:31
+msgid "Order Date"
+msgstr ""
+
+#: admin/pages/orders/general-details.php:66
+msgid "Order Status"
+msgstr ""
+
+#: admin/pages/orders/general-details.php:89
+msgid "Payment Method"
+msgstr ""
+
+#: admin/pages/orders/general-details.php:142
+msgid "Transaction ID"
+msgstr ""
+
+#: admin/pages/orders/order-items.php:34
+msgid "Select Item"
+msgstr ""
+
+#: admin/pages/orders/order-items.php:142
+msgid "Select Price Option"
+msgstr ""
+
+#: admin/pages/orders/order-items.php:171
+msgid "If order status is \"Completed\" items are no longer editable."
+msgstr ""
+
+#: admin/pages/orders/order-items.php:175
+msgid "Add Item(s)"
+msgstr ""
+
+#: admin/pages/orders/order-items.php:199
+msgid "Product Name"
+msgstr ""
+
+#: admin/pages/orders/order-items.php:277
+#: public/account/order-history-view.php:144
+#: public/account/order-history-view.php:212 public/shortcodes/cart.php:94
+#: public/shortcodes/cart.php:156 public/shortcodes/checkout-totals.php:13
+#: public/shortcodes/order-receipt.php:240
+#: public/shortcodes/order-receipt.php:308
+msgid "Product"
+msgstr ""
+
+#: admin/pages/orders/order-items.php:338
+#: public/account/order-history-view.php:357
+#: public/shortcodes/order-receipt.php:452
+msgid "Order Total:"
+msgstr ""
+
+#: admin/pages/orders/order-items.php:348
+msgid "Update Totals"
+msgstr ""
+
+#: admin/pages/template-options.php:10
+msgid "Template Options"
+msgstr ""
+
+#: admin/pages/template-options.php:11
+msgid ""
+"The following options affect the catalog layout style displayed on the "
+"frontend."
+msgstr ""
+
+#: admin/pages/template-options.php:15
+msgid "Inner Template Header"
+msgstr ""
+
+#: admin/pages/template-options.php:19
+msgid ""
+"Use this area to customize the theme layout. For example: remove the "
+"\"container\" class then add \"width:100%;\" into the style tag. This  will "
+"change the theme width."
+msgstr ""
+
+#: admin/pages/template-options.php:20 admin/pages/template-options.php:30
+msgid "by default:"
+msgstr ""
+
+#: admin/pages/template-options.php:20
+msgid ""
+"&lt;div class=\"container\" style=\"margin-left: auto; margin-right: auto;"
+"\"&gt;"
+msgstr ""
+
+#: admin/pages/template-options.php:25
+msgid "Inner Template Footer"
+msgstr ""
+
+#: admin/pages/template-options.php:29
+msgid "Use this area to close the open div tags."
+msgstr ""
+
+#: admin/pages/template-options.php:30
+msgid "&lt;/div&gt;"
+msgstr ""
+
+#: includes/class-lmctlg-activator.php:444
+msgid "Order Receipt"
+msgstr ""
+
+#: includes/class-lmctlg-activator.php:518
+msgid "Order Notification"
+msgstr ""
+
+#: public/account/order-history-view.php:68
+#: public/account/order-history.php:57
+msgid "Details"
+msgstr ""
+
+#: public/account/order-history-view.php:77
+msgid "Order Details"
+msgstr ""
+
+#: public/account/order-history-view.php:90
+#: public/shortcodes/order-receipt.php:98
+msgid "Order Date: "
+msgstr ""
+
+#: public/account/order-history-view.php:94
+#: public/shortcodes/order-receipt.php:102
+msgid "Order ID: "
+msgstr ""
+
+#: public/account/order-history-view.php:98
+#: public/shortcodes/order-receipt.php:106
+msgid "Order Key: "
+msgstr ""
+
+#: public/account/order-history-view.php:106
+#: public/shortcodes/order-receipt.php:114
+msgid "Transaction ID: "
+msgstr ""
+
+#: public/account/order-history-view.php:113
+#: public/shortcodes/order-receipt.php:120
+msgid "Payment Method: "
+msgstr ""
+
+#: public/account/order-history-view.php:120
+#: public/account/order-history-view.php:122
+#: public/shortcodes/order-receipt.php:127
+#: public/shortcodes/order-receipt.php:129
+msgid "Order Status: "
+msgstr ""
+
+#: public/account/order-history-view.php:260
+#: public/api/class-lmctlg-file-download-api.php:659
+#: public/shopping-cart/classes/class-lmctlg-notification-emails.php:588
+#: public/shortcodes/order-receipt.php:356
+msgid "Unlimited"
+msgstr ""
+
+#: public/account/order-history-view.php:266
+#: public/shopping-cart/classes/class-lmctlg-notification-emails.php:593
+#: public/shortcodes/order-receipt.php:362
+msgid "Never Expires"
+msgstr ""
+
+#: public/account/order-history-view.php:288
+#: public/shopping-cart/classes/class-lmctlg-notification-emails.php:618
+#: public/shortcodes/order-receipt.php:384
+msgid "Download File: "
+msgstr ""
+
+#: public/account/order-history-view.php:289
+#: public/shopping-cart/classes/class-lmctlg-notification-emails.php:616
+#: public/shortcodes/order-receipt.php:385
+msgid "Download Limit: "
+msgstr ""
+
+#: public/account/order-history-view.php:290
+msgid "Download Count: "
+msgstr ""
+
+#: public/account/order-history-view.php:291
+#: public/shopping-cart/classes/class-lmctlg-notification-emails.php:617
+#: public/shortcodes/order-receipt.php:386
+msgid "Download Expiry Date: "
+msgstr ""
+
+#: public/account/order-history-view.php:375
+#: public/shortcodes/product-view.php:137
+msgid "Go Back"
+msgstr ""
+
+#: public/account/order-history.php:44
+msgid "Order History"
+msgstr ""
+
+#: public/account/order-history.php:105
+msgid "View"
+msgstr ""
+
+#: public/account/order-history.php:124
+msgid "You haven't got any orders yet"
+msgstr ""
+
+#: public/api/class-lmctlg-file-download-api.php:106
+msgid "No action KEY provided."
+msgstr ""
+
+#: public/api/class-lmctlg-file-download-api.php:110
+msgid "No dwfile KEY provided."
+msgstr ""
+
+#: public/api/class-lmctlg-file-download-api.php:123
+msgid "Action value is empty."
+msgstr ""
+
+#: public/api/class-lmctlg-file-download-api.php:127
+msgid "Download file value is empty."
+msgstr ""
+
+#: public/api/class-lmctlg-file-download-api.php:148
+msgid "Invalid action key provided."
+msgstr ""
+
+#: public/api/class-lmctlg-file-download-api.php:263
+msgid "Download Limit Exceeded."
+msgstr ""
+
+#: public/api/class-lmctlg-file-download-api.php:273
+msgid "Download Access Expired."
+msgstr ""
+
+#: public/api/class-lmctlg-file-download-api.php:292
+#: public/api/class-lmctlg-file-download-api.php:588
+msgid "Mime type not found."
+msgstr ""
+
+#: public/api/class-lmctlg-file-download-api.php:298
+#: public/api/class-lmctlg-file-download-api.php:459
+#: public/api/class-lmctlg-file-download-api.php:594
+msgid "No File Found."
+msgstr ""
+
+#: public/api/class-lmctlg-file-download-api.php:304
+#: public/api/class-lmctlg-file-download-api.php:310
+#: public/api/class-lmctlg-file-download-api.php:605
+#: public/api/class-lmctlg-file-download-api.php:611
+msgid "Invalid request."
+msgstr ""
+
+#: public/api/class-lmctlg-file-download-api.php:527
+msgid "Unable to process lisense expired on "
+msgstr ""
+
+#: public/api/class-lmctlg-file-download-api.php:533
+msgid "Unable to process license disabled by the provider."
+msgstr ""
+
+#: public/api/class-lmctlg-file-download-api.php:577
+msgid "Wrong mime type only zip files allowed."
+msgstr ""
+
+#: public/api/class-lmctlg-file-download-api.php:599
+msgid "Cannot find license."
+msgstr ""
+
+#: public/api/class-lmctlg-file-download-api.php:737
+msgid "File not exist."
+msgstr ""
+
+#: public/class-lmctlg-public.php:344
+msgid "Signing in, please wait..."
+msgstr ""
+
+#: public/classes/class-lmctlg-contact-us.php:78
+msgid "Contact Form"
+msgstr ""
+
+#: public/classes/class-lmctlg-contact-us.php:83
+msgid "Date: "
+msgstr ""
+
+#: public/classes/class-lmctlg-contact-us.php:84
+msgid "Sent From: "
+msgstr ""
+
+#: public/classes/class-lmctlg-contact-us.php:84
+msgid " Contact Form "
+msgstr ""
+
+#: public/classes/class-lmctlg-contact-us.php:85
+msgid "Firstname: "
+msgstr ""
+
+#: public/classes/class-lmctlg-contact-us.php:85
+msgid "Lastname: "
+msgstr ""
+
+#: public/classes/class-lmctlg-contact-us.php:86
+#: public/classes/class-lmctlg-login-register.php:749
+#: public/classes/class-lmctlg-login-register.php:805
+#: public/shortcodes/order-receipt.php:173
+msgid "Email: "
+msgstr ""
+
+#: public/classes/class-lmctlg-contact-us.php:86
+#: public/shortcodes/order-receipt.php:178
+msgid "Phone: "
+msgstr ""
+
+#: public/classes/class-lmctlg-contact-us.php:87
+msgid "Subject: "
+msgstr ""
+
+#: public/classes/class-lmctlg-contact-us.php:88
+msgid "Message: "
+msgstr ""
+
+#: public/classes/class-lmctlg-contact-us.php:91
+#: public/classes/class-lmctlg-login-register.php:756
+#: public/classes/class-lmctlg-login-register.php:873
+msgid "With Kind Regards,  "
+msgstr ""
+
+#: public/classes/class-lmctlg-contact-us.php:108
+msgid "An unexpected error occurred while sending email."
+msgstr ""
+
+#: public/classes/class-lmctlg-contact-us.php:115
+msgid "Thank you! We have received your email."
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:168
+msgid "Username is required."
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:172
+msgid "Password is required."
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:192
+msgid "Incorrect password entered."
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:196
+msgid "The username you entered does not exist."
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:289
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:334
+msgid "Username already taken."
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:338
+msgid "Invalid username."
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:342
+msgid ""
+"Email address already taken. Please login or enter a different email address."
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:346
+msgid "Invalid email."
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:350
+#: public/classes/class-lmctlg-login-register.php:406
+msgid "Please enter a password."
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:354
+msgid "Passwords do not match."
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:496
+msgid "You have been successfully registered. Now you can login. Thank you! "
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:566
+msgid "Enter a username or e-mail address."
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:570
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:574
+msgid "Invalid username or email."
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:578
+msgid "Email sending error."
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:689
+msgid "Check your e-mail for the confirmation link. Thank you! "
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:741
+msgid "Registration Details"
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:744
+#: public/classes/class-lmctlg-login-register.php:861
+msgid "Dear "
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:745
+msgid "Thank you for your registration!"
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:747
+msgid "Your Registration Details"
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:748
+#: public/classes/class-lmctlg-login-register.php:804
+msgid "Username: "
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:750
+msgid "Password: "
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:752
+msgid "Please click on the following link to login. "
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:800
+msgid "New User Registration"
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:803
+msgid "New user registration on your site "
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:858
+msgid "Password reset request"
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:863
+msgid "Someone has requested a password reset for the following account: "
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:865
+msgid "Username: %s"
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:867
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: public/classes/class-lmctlg-login-register.php:869
+msgid "To reset your password, visit the following address: "
+msgstr ""
+
+#: public/classes/class-lmctlg-shortcodes.php:331
+msgid "Login to your Account"
+msgstr ""
+
+#: public/classes/class-lmctlg-shortcodes.php:348
+#: public/shortcodes/checkout.php:323
+msgid "Create an Account"
+msgstr ""
+
+#: public/classes/class-lmctlg-shortcodes.php:366
+#: public/shortcodes/login-manager.php:10
+msgid "Forgot Password"
+msgstr ""
+
+#: public/classes/class-lmctlg-shortcodes.php:417
+msgid ""
+"Please enter your contact details and a short message below, we will try to "
+"answer your query as soon as possible."
+msgstr ""
+
+#: public/classes/class-lmctlg-shortcodes.php:448
+#: public/shopping-cart/classes/class-lmctlg-payment-buttons.php:59
+msgid " - Buy Now"
+msgstr ""
+
+#: public/classes/class-lmctlg-shortcodes.php:449
+#: public/shopping-cart/classes/class-lmctlg-payment-buttons.php:60
+msgid " + Checkout"
+msgstr ""
+
+#: public/classes/class-lmctlg-wp-cron.php:48
+msgid "Every Five Seconds"
+msgstr ""
+
+#: public/classes/class-lmctlg-wp-cron.php:53
+msgid "Once Weekly"
+msgstr ""
+
+#: public/classes/class-lmctlg-wp-cron.php:58
+msgid "Once a month"
+msgstr ""
+
+#: public/classes/class-lmctlg-wp-rest-api.php:102
+msgid "Only authenticated users can access the REST API."
+msgstr ""
+
+#: public/pages/includes/lime-catalog-products.php:135
+#: public/shortcodes/search-results.php:117
+msgid "%s"
+msgstr ""
+
+#: public/pages/includes/sidebar-search.php:7
+msgid "Search Products"
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-amount.php:144
+msgid "Error: Not well formed amount."
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-cart.php:141
+#: public/shortcodes/cart.php:239
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-cart.php:142
+#: public/shortcodes/cart.php:240
+msgid "< Return to Shop"
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-checkout.php:361
+msgid "Thank you for your order!"
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-checkout.php:381
+msgid "Please select Country."
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-checkout.php:385
+msgid "City is required."
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-checkout.php:389
+msgid "Street Addr. 1 is required."
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-checkout.php:393
+msgid "Postcode/Zip is required."
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-notification-emails.php:452
+msgid "Payment Gateway: "
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-notification-emails.php:458
+msgid "Notes: "
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-notification-emails.php:464
+msgid "Bank Account Details: "
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-notification-emails.php:630
+msgid "Item ID: "
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-notification-emails.php:631
+msgid "Item Price: "
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-notification-emails.php:632
+msgid "Item Quantity: "
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-notification-emails.php:633
+msgid "Item Total: "
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-payment-buttons.php:52
+msgid " - Add To Cart"
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-payment-buttons.php:53
+msgid " + View Cart"
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-process-order.php:142
+msgid "Empty data."
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-process-order.php:177
+#: public/shopping-cart/classes/class-lmctlg-validate-order-form.php:160
+msgid "Nonce verification failed."
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-process-order.php:534
+msgid "Thank you for your purchase!"
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-validate-order-form.php:170
+msgid "No gateway selected."
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-validate-order-form.php:179
+msgid "Order form user registration error."
+msgstr ""
+
+#: public/shopping-cart/classes/class-lmctlg-validate-order-form.php:189
+msgid "Order form billing details error."
+msgstr ""
+
+#: public/shopping-cart/pages-front-end/_template-for-pages.php:20
+msgid "Sidebar"
+msgstr ""
+
+#: public/shopping-cart/pages-front-end/payment-buttons-form.php:19
+msgid "- Add to Cart"
+msgstr ""
+
+#: public/shopping-cart/pages-front-end/payment-buttons-form.php:28
+msgid "+ View Cart"
+msgstr ""
+
+#: public/shopping-cart/payment-gateways/bacs.php:155
+msgid "Failed to insert order data."
+msgstr ""
+
+#: public/shortcodes/basket.php:34
+msgid "item(s) in my "
+msgstr ""
+
+#: public/shortcodes/basket.php:35
+msgid "cart"
+msgstr ""
+
+#: public/shortcodes/breadcrumbs.php:10
+msgid "Home"
+msgstr ""
+
+#: public/shortcodes/cart-totals.php:46
+msgid "Cart Totals"
+msgstr ""
+
+#: public/shortcodes/cart-totals.php:74
+msgid "Update Cart"
+msgstr ""
+
+#: public/shortcodes/cart-totals.php:78
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: public/shortcodes/cart-totals.php:82
+msgid "Continue Shopping"
+msgstr ""
+
+#: public/shortcodes/cart.php:98
+msgid "Refresh"
+msgstr ""
+
+#: public/shortcodes/cart.php:99
+msgid "Delete"
+msgstr ""
+
+#: public/shortcodes/checkout-totals.php:4
+msgid "Your order"
+msgstr ""
+
+#: public/shortcodes/checkout-totals.php:14
+msgid "Item Total"
+msgstr ""
+
+#: public/shortcodes/checkout.php:110
+msgid "Returning customer?"
+msgstr ""
+
+#: public/shortcodes/checkout.php:110
+msgid "Click here to login"
+msgstr ""
+
+#: public/shortcodes/checkout.php:146
+msgid "Select Payment Method"
+msgstr ""
+
+#: public/shortcodes/checkout.php:256
+msgid "Personal Details"
+msgstr ""
+
+#: public/shortcodes/checkout.php:282 public/shortcodes/contact-form.php:42
+#: public/shortcodes/register-form.php:36
+msgid "E-mail"
+msgstr ""
+
+#: public/shortcodes/checkout.php:330 public/shortcodes/login-form.php:22
+#: public/shortcodes/register-form.php:28
+msgid "Username"
+msgstr ""
+
+#: public/shortcodes/checkout.php:342 public/shortcodes/login-form.php:30
+#: public/shortcodes/register-form.php:48
+msgid "Password"
+msgstr ""
+
+#: public/shortcodes/checkout.php:350 public/shortcodes/register-form.php:56
+msgid "Password Again"
+msgstr ""
+
+#: public/shortcodes/checkout.php:377
+msgid "Credit Card Details"
+msgstr ""
+
+#: public/shortcodes/checkout.php:383
+msgid "Card Number"
+msgstr ""
+
+#: public/shortcodes/checkout.php:391
+msgid "Card Expiry Date"
+msgstr ""
+
+#: public/shortcodes/checkout.php:438
+msgid "Name on the Card"
+msgstr ""
+
+#: public/shortcodes/checkout.php:446
+msgid "CVC/CVV"
+msgstr ""
+
+#: public/shortcodes/checkout.php:461
+msgid "SSL encrypted secure payments."
+msgstr ""
+
+#: public/shortcodes/checkout.php:592
+msgid "Street Addr. 1"
+msgstr ""
+
+#: public/shortcodes/checkout.php:604
+msgid "Street Addr. 2"
+msgstr ""
+
+#: public/shortcodes/checkout.php:633
+msgid "Place Order"
+msgstr ""
+
+#: public/shortcodes/checkout.php:655
+msgid "By clicking the \"Place Order\" button, you agree with our "
+msgstr ""
+
+#: public/shortcodes/contact-form.php:50
+msgid "Telephone"
+msgstr ""
+
+#: public/shortcodes/contact-form.php:74
+msgid "Message"
+msgstr ""
+
+#: public/shortcodes/contact-form.php:93
+msgid "Send"
+msgstr ""
+
+#: public/shortcodes/forgot-pw-form.php:22
+msgid "Enter your Username or E-mail address"
+msgstr ""
+
+#: public/shortcodes/forgot-pw-form.php:41
+msgid "Get New Password"
+msgstr ""
+
+#: public/shortcodes/home-category-boxes.php:67
+#: public/shortcodes/home-category-boxes.php:68
+#: public/shortcodes/home-category-boxes.php:73
+msgid "View all post filed under %s"
+msgstr ""
+
+#: public/shortcodes/login-form.php:44
+msgid "Remember me"
+msgstr ""
+
+#: public/shortcodes/login-form.php:61 public/shortcodes/login-manager.php:8
+msgid "Login"
+msgstr ""
+
+#: public/shortcodes/login-manager.php:9
+#: public/shortcodes/register-form.php:75
+msgid "Register"
+msgstr ""
+
+#: public/shortcodes/order-receipt.php:85
+msgid "Receipt"
+msgstr ""
+
+#: public/shortcodes/order-receipt.php:151
+msgid "Bill To"
+msgstr ""
+
+#: public/shortcodes/order-receipt.php:163
+msgid "First Name: "
+msgstr ""
+
+#: public/shortcodes/order-receipt.php:168
+msgid "Last Name: "
+msgstr ""
+
+#: public/shortcodes/order-receipt.php:183
+msgid "Company: "
+msgstr ""
+
+#: public/shortcodes/product-view.php:38
+msgid "From"
+msgstr ""
+
+#: public/shortcodes/product-view.php:121
+msgid "SKU:"
+msgstr ""
+
+#: public/shortcodes/product-view.php:132
+msgid "Edit"
+msgstr ""
+
+#: public/shortcodes/register-form.php:92
+msgid "Sorry! User Registration is disabled."
+msgstr ""
+
+#: public/shortcodes/search-results.php:145
+msgid "No results were found."
+msgstr ""
+
+#: public/shortcodes/sub-category-boxes.php:59
+#: public/shortcodes/sub-category-boxes.php:60
+#: public/shortcodes/sub-category-boxes.php:65
+msgid "View all posts under %s"
+msgstr ""
+
+#: public/widgets/basket.php:32
+msgid "Display the shopping basket on your sidebar."
+msgstr ""
+
+#: public/widgets/basket.php:98
+msgid "Cart"
+msgstr ""
+
+#: public/widgets/basket.php:103 public/widgets/categories-nav.php:98
+#: public/widgets/search.php:98
+msgid "Title:"
+msgstr ""
+
+#: public/widgets/categories-nav.php:32
+msgid "Display the product categories on your sidebar."
+msgstr ""
+
+#: public/widgets/search.php:32
+msgid "Display the search form field on your sidebar."
+msgstr ""
+
+#: public/widgets/search.php:93
+msgid "Product Search"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Lime Catalog 1.0.2)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (Lime Catalog 1.0.2)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://limecatalog.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Responsive product catalog included with a built in e-commerce cart system "
+"to sell digital products. Works with any themes and most of the WordPress "
+"plugins."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Attila Abraham"
+msgstr ""

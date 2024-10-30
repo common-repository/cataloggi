@@ -1,0 +1,90 @@
+
+.cw-form form fieldset {
+	background:#FCD2A0;
+    background: rgb(252, 210, 160); /* fallback color */
+    background: rgba(252, 210, 160, 0.9);
+}
+.cw-form .cw-header {
+	background:#FDDFBB;
+    background: rgb(253, 223, 187); /* fallback color */
+    background: rgba(253, 223, 187, 0.9);
+	border-bottom: 1px solid #FCCD9A;
+}
+.cw-form .cw-footer {
+	background:#FDDFBB;
+    background: rgb(253, 223, 187); /* fallback color */
+    background: rgba(253, 223, 187, 0.9);
+	border-top: 1px solid #FCCD9A;
+}
+.cw-form input[type=text], .cw-form input[type=email], .cw-form input[type=password], .cw-form select, .cw-form textarea {
+	background:#FEF5EB;
+	border: 1px solid #FBB86F;
+    background: rgb(254, 245, 235); /* fallback color */
+    background: rgba(254, 245, 235, 0.9);
+}
+.cw-form input[type=text]:focus, .cw-form input[type=email]:focus, .cw-form input[type=password]:focus, .cw-form select:focus, .cw-form textarea:focus {
+    border: 1px solid #F9A646;
+}
+
+.cw-form .submitbutton{
+	background: #F57C00;
+    color:#f5f5f5;
+}
+.cw-form .submitbutton:hover, .cw-form .submitbutton:focus{
+    background: #FF9800;
+}
+
+.cw-form .refreshbutton{
+	background: #FF9800;
+    color:#f5f5f5;
+}
+.cw-form .refreshbutton:hover{
+    background: #F57C00;
+}
+.cw-form .filebtn {
+	background: #FF9800;
+    color:#f5f5f5;
+}
+.cw-form .filebtn:hover{
+    background: #F57C00;
+}
+/* style icon */
+.cw-form .inner-addon .glyphicon {
+  color:#FCDBB2;
+}
+
+/* add-on style */
+
+.cw-form .textlabel-paymentform {
+	color:#262626;
+	font-size:16px;
+	font-weight: bold;
+	line-height:1.2em;
+    padding: 0px;
+	margin: 6px 2px 2px 18px;
+	float:left;
+	width:100%;
+	text-align:left;
+}
+
+.cw-form .footer-extra-data {
+	background:#FEF5EB;
+}
+
+/* Responsive Table */
+
+.cw-table-responsive table th {
+	background:#FDDFBB;
+}
+
+.cw-table-responsive table tbody tr {
+	background:#FEF5EB;
+}
+
+.cw-table-responsive table thead tr{
+	background:#FDDFBB;
+}
+
+.cw-table-responsive table tbody tr:nth-child(2n+1) td {
+	background:#FEF5EB;
+}
